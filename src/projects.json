@@ -1,0 +1,4482 @@
+[
+    {
+        "id": "3c1e9b75-db41-4087-6d3e-5680ee8f2da8",
+        "name": "0-1KERROS",
+        "site_name": "Liike- ja toimistorakennus Kiint. Oy Isabella",
+        "simple_id": 4241,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58bfb3fc-5cda-e083-5964-470416c3a6b4",
+        "name": "2KERROS",
+        "site_name": "Liike- ja toimistorakennus Kiint. Oy Isabella",
+        "simple_id": 7156,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "b1667c16-4289-f38e-8e14-575657db4710",
+        "name": "A-RAPPU",
+        "site_name": "As Oy Kuopion Tuulikannel",
+        "simple_id": 5394,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58e32090-ed35-b4f5-223a-1cf31e540e27",
+        "name": "ALAVUSHERNETIE_IKKUNA",
+        "site_name": "Vantaan Hernetie",
+        "simple_id": 7336,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "315c574a-d353-416e-73fd-5821cb7dd40a",
+        "name": "Alavuslujlohjanrairaala_ikkunat_ASENNUS MÄÄRÄT",
+        "site_name": "Lohjan Sairaala, psykiatrian uudisrakennus",
+        "simple_id": 6320,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58aab220-4c54-1c76-24cd-55a8fe92ceb1",
+        "name": "ALAVUSMÄNTÄNPÄIVÄKOTI_IKKUNA",
+        "site_name": "Mäntän Päiväkoti",
+        "simple_id": 7013,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "a64953d0-b5bf-2402-6e83-574299d46bdc",
+        "name": "ALAVUSSRVNIITTYHUIPPI_IKKUNAT_ASENTAJAT",
+        "site_name": "Niittyhuippu",
+        "simple_id": 5293,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "2c318a01-d4dc-6ea5-684e-57429a950683",
+        "name": "ALAVUSSRVNIITTYTORI_IKKUNAT_ASENTAJAT",
+        "site_name": "Niittytori",
+        "simple_id": 5295,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ee5663ed-df9f-c968-9217-5742a1ebc2c1",
+        "name": "ALAVUSSRVSANDRA_IKKUNAT_ASENTAJAT",
+        "site_name": "As Oy Sandra",
+        "simple_id": 5297,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "853a1db0-7911-849d-0287-573bf5bb21ab",
+        "name": "ALAVUSSRVVISSELI_IKKUNAT",
+        "site_name": "Rivitalo As Oy Helsingin Visseli",
+        "simple_id": 5255,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58b94831-7f04-0675-f7c3-fa0f65fb1b8e",
+        "name": "ALAVUSWESPINOVAJÄLKITYÖT_IKKUNAT",
+        "site_name": "As Oy Espoon Pinova",
+        "simple_id": 7119,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c2678657-3063-3190-344e-5375da89bcf5",
+        "name": "ALITESTI",
+        "site_name": "YAP testi",
+        "simple_id": 663,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e1f7bd-a396-8bd4-d92a-164ca0cd8d45",
+        "name": "ALLJANNENVÄYLÄ_KITTI",
+        "site_name": "As Oy Järvenpään Jannenväylä",
+        "simple_id": 7317,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58761b8e-c0d6-a227-6eda-eb104d2682a6",
+        "name": "ARESSABTOIMISTO",
+        "site_name": "SSAB Europe Oy Satamakangas, talo 2",
+        "simple_id": 6706,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "2702fd43-937a-4fb5-65dd-57e5071bc02f",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6034,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "43ed3a5c-278c-ebc9-ec89-57ed3744e101",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "Suurpellon Puistokatu 12 C",
+        "simple_id": 6072,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6a5af28f-31cf-b37a-7129-5821b7c658dc",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "Teerisuontie 27",
+        "simple_id": 6319,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ba47858d-e983-8419-a37d-57ed37f57d4a",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "Koy Hyvinkään sairaalanmäki",
+        "simple_id": 6073,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "de7f614d-d1ff-e922-74fc-58298e3f8a08",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "Kruunuvuoren Kuningas",
+        "simple_id": 6363,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e40d1838-3415-ae75-7232-57ed36a01085",
+        "name": "ASENNUS MÄÄRÄT",
+        "site_name": "Vantaan Hernetie",
+        "simple_id": 6071,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3c74a7d9-706b-efcd-8835-57170ef5557b",
+        "name": "ASENNUS MÄÄRÄT-1",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 5035,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58cba976-26ff-33c7-b24b-db86698e5b1f",
+        "name": "B-RAPPU",
+        "site_name": "As Oy Kuopion Tuulikannel",
+        "simple_id": 7214,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58342aa0-ab21-f3fc-fa38-3b6ae672a5d3",
+        "name": "B-TALO",
+        "site_name": "As Oy  Ukkokoti",
+        "simple_id": 6413,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "584e7830-bdf0-000d-fd28-6ea25dd66a9d",
+        "name": "BONSHOWROOM",
+        "site_name": "Bonava Suomi Oy myyntitilat",
+        "simple_id": 6529,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588879a9-4ff4-bd24-1091-0b423ef86367",
+        "name": "CASSILVA",
+        "site_name": "As Oy Jyväskylän Silva",
+        "simple_id": 6831,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58a57005-e2ea-02d1-3e96-acf3bbd92e4b",
+        "name": "CASSILVA_KARMI",
+        "site_name": "As Oy Jyväskylän Silva",
+        "simple_id": 6979,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "65f50a1f-3f6e-5391-8b49-58218216aaec",
+        "name": "CONAAPELINKATU",
+        "site_name": "KOY Aapelinkatu 6",
+        "simple_id": 6309,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "26c5fc98-6b0f-0623-3e5b-57f600c4e287",
+        "name": "CONAAPELINKATU_A",
+        "site_name": "KOY Aapelinkatu 6",
+        "simple_id": 6121,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "60462df3-82f6-bc1f-4486-5821822e75eb",
+        "name": "CONAAPELINKATU_B",
+        "site_name": "KOY Aapelinkatu 6",
+        "simple_id": 6310,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c033d42b-2551-12d4-6509-582183e383be",
+        "name": "CONAAPELINKATU_C",
+        "site_name": "KOY Aapelinkatu 6",
+        "simple_id": 6311,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ae1e9e05-693c-9124-87f1-582183811024",
+        "name": "CONAAPELINKATU_E",
+        "site_name": "KOY Aapelinkatu 6",
+        "simple_id": 6313,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58b3ed0c-d42a-d44f-e62e-82c7009a7e2c",
+        "name": "CONKIVIPUISTONMONIPALVELUKESKUS",
+        "site_name": "Kivipuiston Monipalvelukeskus",
+        "simple_id": 7074,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "49b30912-82f3-9d3d-1cd3-56ebc7b81aa8",
+        "name": "CONSIILITIE",
+        "site_name": "Heka Siilitie 7",
+        "simple_id": 4855,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6f8b7d82-22de-aa54-9c56-56ebc8ff410c",
+        "name": "CONSIILITIE_TALO3",
+        "site_name": "Heka Siilitie 7",
+        "simple_id": 4857,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "865a52d3-cd26-a2d6-2964-56ebc8cf5240",
+        "name": "CONSIILITIE_TALO4",
+        "site_name": "Heka Siilitie 7",
+        "simple_id": 4858,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d4b4de-12e5-bbb7-5a68-f67b97dfd90d",
+        "name": "CONSÖRNÄISTENRANTATIE13",
+        "site_name": "A13259 Sörnäisten Rantatie 13",
+        "simple_id": 7262,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6292b121-5d72-74e4-5647-5808b3e33c4e",
+        "name": "EPBONPUUSEPÄNMÄKI_IKKUNA",
+        "site_name": "Puusepänmäki Palvelutalo",
+        "simple_id": 6196,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6f5bbdfd-747f-c2d4-7555-57219db0959e",
+        "name": "EPFIRKARAVAANIKUJA2A-B_IKKUNAT",
+        "site_name": "Karavaanikuja 2",
+        "simple_id": 5103,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e8d1c11a-04b7-5b8a-a872-58171f432f55",
+        "name": "EPFIRKARAVAANIKUJA4TALO1_IKKUNA",
+        "site_name": "Karavaanikuja 4 Talo 1",
+        "simple_id": 6252,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "1d740dc7-17ac-d836-bb90-57a8617ecbb4",
+        "name": "EPHARLAURINRANTACJAD",
+        "site_name": "As Oy Espoon Rantahyödyke A ja B",
+        "simple_id": 5718,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5859363f-2413-bf39-675d-7a16106b81e9",
+        "name": "EPHARLUMIKONKATU2_IKKUNAT",
+        "site_name": "TVT Asunnot Lumikonkatu 2",
+        "simple_id": 6596,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "1d7e544c-66bc-7b47-da6f-57a8605df3e0",
+        "name": "EPHARRANTAHYÖDYKEAJAB",
+        "site_name": "As Oy Espoon Rantahyödyke A ja B",
+        "simple_id": 5717,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "b2a71682-7ef0-f21a-6505-57171133add9",
+        "name": "EPKARAVAANIKUJA2TALO3_IKKUNAT",
+        "site_name": "Karavaanikuja 2 Talo 3",
+        "simple_id": 5038,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5853c01b-a7ee-0907-0eef-6dbe1d22db2a",
+        "name": "EPLANJANNENVÄYLÄ_IKKUNA",
+        "site_name": "As Oy Jannenväylä",
+        "simple_id": 6562,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d0c2d169-3db7-13bf-41bf-57a85e171ed1",
+        "name": "EPNCCAVAIN_IKKUNA",
+        "site_name": "Avain Martinlaakso",
+        "simple_id": 5716,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "441ce464-f685-82f3-24fe-581083458f41",
+        "name": "EPNCCFRIDA_IKKUNA",
+        "site_name": "Oulun Frida",
+        "simple_id": 6222,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "d6040281-76cd-1c8c-0521-57208056ed6f",
+        "name": "EPNCCVIRTA_IKKUNAT",
+        "site_name": "Wirta",
+        "simple_id": 5088,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d3ca7603-537c-9de9-e1f1-57208051bc45",
+        "name": "EPNCCVOIMA_IKKUNAT",
+        "site_name": null,
+        "simple_id": 5087,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "96b1e65f-1390-6822-3be0-572080d65d9c",
+        "name": "EPNCCWALO_IKKUNAT",
+        "site_name": null,
+        "simple_id": 5089,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d3e73a10-b174-de31-fddc-5720812315fd",
+        "name": "EPNCCWATTI_IKKUNAT",
+        "site_name": null,
+        "simple_id": 5090,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a3270924-72b9-d37c-947e-58172df8a6c5",
+        "name": "EPPEAMARINKALLIOTALO8_IKKUNA",
+        "site_name": "Marinkallio Talo 8",
+        "simple_id": 6255,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "534f59a2-4275-6ac7-9e07-5808a5d9c410",
+        "name": "EPPEAMERINKALLIOTALO_IKKUNA",
+        "site_name": "Marinkallio Talo 4",
+        "simple_id": 6191,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58984afb-46d9-6583-93e7-c1ad14b0a858",
+        "name": "EPPEATUULIKELLO_IKKUNA",
+        "site_name": "Kuopion Tuulikello",
+        "simple_id": 6909,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5852a86e-7bc4-305b-7d85-3fa9462b6fa3",
+        "name": "EPPSTVILLAENERGY_IKKUNA",
+        "site_name": "Kuopion Villa Energy",
+        "simple_id": 6554,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "616f55e5-0604-667e-e3fc-5767e660d5a6",
+        "name": "EPSKAMALSKINKUOHU_IKKUNA",
+        "site_name": "As Oy Malskin Kouhu",
+        "simple_id": 5516,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "b51b7045-9548-a9cf-e264-57640b5af7da",
+        "name": "EPSKAMALSKINTAMMI_IKKUNA",
+        "site_name": "As Oy Malskin Tammi",
+        "simple_id": 5498,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "5dff8225-44b4-6176-a21c-57692ada0178",
+        "name": "EPSKAPALVELUTALOHOPEASILTA_IKKUNA",
+        "site_name": "Palvelutalo Hopeasilta",
+        "simple_id": 5536,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "e5cb27f6-a94e-64b8-f511-575f9091f84b",
+        "name": "EPSRVSATAMARANNANMASTO_IKKUNAT",
+        "site_name": "Satamarannan Masto",
+        "simple_id": 5443,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "41720890-bfbd-81cb-648c-57219fa869f5",
+        "name": "EPT2HFORTUNA_IKKUNAT",
+        "site_name": "Vantaan Fortuna",
+        "simple_id": 5104,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5833e44b-8a82-ae2d-e712-57ba57033e72",
+        "name": "EPYITKAROLIINATALOA_IKKUNA",
+        "site_name": "Keravan Karoliina Talo B",
+        "simple_id": 6408,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5853bdee-f117-e238-5b8c-774c6a120e7b",
+        "name": "EPYITKAROLIINATALOB_IKKUNA",
+        "site_name": "Keravan Karoliina Talo B",
+        "simple_id": 6561,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5878c63d-b9ae-1d56-3ff3-76ccaa4db56b",
+        "name": "EPYITMAJAPAIKKA_IKKUNA",
+        "site_name": "Tuusulan Majapaikka",
+        "simple_id": 6735,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58cfc998-89d3-7516-16dc-662fbebb63dc",
+        "name": "EPYITSEINÄJOENKOMIAKULMA_IKKUNAT",
+        "site_name": "Seinäjoen Komiakulma",
+        "simple_id": 7226,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "31618bf5-3e40-696c-8ca4-57f4e026faf3",
+        "name": "EPYITWELLAMOA_IKKUNA",
+        "site_name": "Keravan Wellamo Talo A",
+        "simple_id": 6105,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e2a62b-9329-a3d2-53e9-42e7b5ed1b4a",
+        "name": "FHRAK_SULKAVA_lista",
+        "site_name": "As Oy Sulkavan Kultahietikko",
+        "simple_id": 7329,
+        "business_location_id": "8f1aa722-3e74-1dcc-161f-51d3ddd03124"
+    },
+    {
+        "id": "40b5bab2-e5ef-80de-146c-573bf7b23de1",
+        "name": "FIRARIEL_IKKUNA",
+        "site_name": "Kalasataman kerrostalokortteli - As Oy Helsingin Ariel",
+        "simple_id": 5256,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58623994-7110-b234-1e23-4dab2d69c690",
+        "name": "FIRKARAVAANIKUJA2",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 6626,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58623a36-a653-4ce4-dfb2-d42fdae87520",
+        "name": "FIRKARAVAANIKUJA2_E",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 6630,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "24a8eef7-949c-35b2-3943-568a185edc91",
+        "name": "FIRKARAVAANIKUJA2_F",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 4368,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "586239bd-3ba0-b26a-fc3b-02a60aecbf31",
+        "name": "FIRKARAVAANIKUJA2_G",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 6627,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "285a0fd8-bef0-212a-5802-57bfd8776b8a",
+        "name": "FIRKARAVAANIKUJA2_KARMI",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 5833,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3255158d-0b03-2322-6490-57c0053376e0",
+        "name": "FIRKARAVAANIKUJA2_KITTI",
+        "site_name": "Kerrostalo Karavaanikuja 2",
+        "simple_id": 5836,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "61bb5701-01e0-5903-d521-568a176b3364",
+        "name": "FIRKAUPUNKIVILLAT_IKKUNA",
+        "site_name": "Kalasataman kerrostalokortteli - As Oy Helsingin Kaupunkivillat",
+        "simple_id": 4366,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "8ce7f8c7-114a-d1c2-8115-573bf70b24ec",
+        "name": "FIRPARRULAITURI_IKKUNA",
+        "site_name": "Kalasataman kerrostalokortteli - As Oy Helsingin Parrulaituri",
+        "simple_id": 5257,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e93a99c1-7090-0fab-f9c9-57b6a928a923",
+        "name": "FIRRUUSUKVARTSI_IKKUNA",
+        "site_name": "VAV Ruusukvartsinkuja 2",
+        "simple_id": 5785,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "2d8e87f0-24b0-86d7-d652-565ed9266d05",
+        "name": "FRESIPOONLOGISTIIKKAKESKUS",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 4060,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "97341916-74cb-ccaa-7552-55e3e98a4e26",
+        "name": "FRESIPOONLOGISTIIKKAKESKUS_MALLI",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 3433,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a8c1a318-be04-1d9b-5d23-56fe2ce4aa3e",
+        "name": "FRESIPOONLOGISTIIKKAKESKUS_U4,T1,V1",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 4902,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58909ce0-9b5f-b5a8-25c7-e8827eb7765d",
+        "name": "FUTHARJUNREUNA23PVK_IKKUNA",
+        "site_name": "Päiväkoti Harjunreuna 23",
+        "simple_id": 6885,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5922df89-c5e0-0cb6-8c4f-c596056f21cd",
+        "name": "GARMUURAMENKUURANKUKKA_KARMI",
+        "site_name": "As.Oy Muuramen Kuurankukka",
+        "simple_id": 7608,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "b1de71bc-2ee5-b8a1-fc65-5748106c7a53",
+        "name": "HAAKVARTERETVICTORIA",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 5343,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "592ed15c-e09f-755d-b044-9719281a457b",
+        "name": "HL_EKKS_RÖNTGEN_LISTOITUS",
+        "site_name": "EKKS Teho",
+        "simple_id": 7694,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "bc6f4962-51e5-ea1f-8918-5821fa6d7a6f",
+        "name": "HL_EKKS_VAIHE 2_LISTOITUS",
+        "site_name": "Lappeenrannan Sairaala",
+        "simple_id": 6327,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58e2a8ce-eafc-8fb1-3b6e-885490a21e49",
+        "name": "HL_K-SAIRAALA_uusi_karmitus",
+        "site_name": "Lappeenrannan Uusi K-Sairaala",
+        "simple_id": 7333,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "648b3585-bede-ca3e-8eb5-542692b37c74",
+        "name": "HUOLTO JA VARASTO",
+        "site_name": "Varasto Lappeenranta",
+        "simple_id": 1516,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58d3c69e-8b7a-890f-0572-7bc11efcdbd5",
+        "name": "HÄYSAUNAMAJURI_KARMI",
+        "site_name": "Oulun Sivakka Oy / Saunamajuri",
+        "simple_id": 7255,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "589d661a-cf4b-52b4-fd44-df6e6d4c4920",
+        "name": "JATAURINGONKIERTO_A",
+        "site_name": "VAV Auringonkierto 2",
+        "simple_id": 6946,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589d6669-d062-0470-1fc4-d4d9555aebdf",
+        "name": "JATAURINGONKIERTO_B",
+        "site_name": "VAV Auringonkierto 2",
+        "simple_id": 6947,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9269c8b7-70af-348d-e222-57eb6246db56",
+        "name": "JATAURINGONKIERTO_D",
+        "site_name": "VAV Auringonkierto 2",
+        "simple_id": 6060,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589d65f4-e9c9-d439-c773-fd45053e9135",
+        "name": "JATAURINGONKIERTO2",
+        "site_name": "VAV Auringonkierto 2",
+        "simple_id": 6945,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5857c125-329c-cd5f-7e3b-b0acd0d025c3",
+        "name": "JATDIAKONISSANTIE_BG",
+        "site_name": "Diakonissantie",
+        "simple_id": 6577,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "2b486050-396a-9b32-5ac9-57e8e17551d4",
+        "name": "JATDIAKONISSANTIE_CDF",
+        "site_name": "Diakonissantie",
+        "simple_id": 6040,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5857bfd3-e20b-f7a1-88f8-08cd9c35959b",
+        "name": "JATDIAKONISSANTIE_EA",
+        "site_name": "Diakonissantie",
+        "simple_id": 6576,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5857bf68-2346-e3ff-0786-69d95fb29c1e",
+        "name": "JATDIAKONISSANTIE22",
+        "site_name": "Diakonissantie",
+        "simple_id": 6575,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5880b2a3-c397-6340-9d8a-ec439da7c90c",
+        "name": "JATKUKINKUJA_C",
+        "site_name": "As Oy Vantaan Kukinkuja 2",
+        "simple_id": 6793,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5880b22b-ed8d-96cf-2070-55853cabde99",
+        "name": "JATKUKINKUJA_D",
+        "site_name": "As Oy Vantaan Kukinkuja 2",
+        "simple_id": 6791,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "cf479a1b-096f-5fa3-260a-5811c2b33042",
+        "name": "JATKUKINKUJA_E",
+        "site_name": "As Oy Vantaan Kukinkuja 2",
+        "simple_id": 6226,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5880b0e9-5cab-10f9-6cbd-39b5230cd90a",
+        "name": "JATKUKINKUJA2",
+        "site_name": "As Oy Vantaan Kukinkuja 2",
+        "simple_id": 6790,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58edf173-5e31-93e8-1f73-9597cf9d5c28",
+        "name": "JATKUNINKAANTUULI",
+        "site_name": "As Oy Helsingin Kuninkaantuuli ja Kuninkaantammi",
+        "simple_id": 7408,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "cfc18510-b854-b8be-81b9-57eb61059ec1",
+        "name": "JATKUNINKAANTUULI_C",
+        "site_name": "As Oy Helsingin Kuninkaantuuli ja Kuninkaantammi",
+        "simple_id": 6059,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58edf225-7545-ac71-3d6c-fb869a9f8ac7",
+        "name": "JATKUNINKAANTUULI_D",
+        "site_name": "As Oy Helsingin Kuninkaantuuli ja Kuninkaantammi",
+        "simple_id": 7409,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "585934b1-4dd4-a154-9457-96f78de47210",
+        "name": "JATLEINELÄNTIE3_IKKUNA",
+        "site_name": "Leineläntie 3",
+        "simple_id": 6592,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "585bbc43-8c57-aa1d-69a4-47bb49f2ff62",
+        "name": "JMSAURINGONSILTA",
+        "site_name": "As Oy Helsingin Auringonsilta",
+        "simple_id": 6606,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584e4a31-df37-511f-3143-145932065eb7",
+        "name": "JMSAURINGONSILTA_B",
+        "site_name": "As Oy Helsingin Auringonsilta",
+        "simple_id": 6525,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "725ef183-09e2-7981-1197-5739b0756242",
+        "name": "JMSAURINGONSILTA_IKKUNAT",
+        "site_name": "As Oy Helsingin Auringonsilta",
+        "simple_id": 5231,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5b425754-3c2b-3ea8-fa73-5739b3c9f2ab",
+        "name": "JMSAURINGONSILTA_KARMIT",
+        "site_name": "As Oy Helsingin Auringonsilta",
+        "simple_id": 5233,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "585bbc72-aea6-afb5-9010-516d9b98f729",
+        "name": "JMSAURINGONSILTA_MALLI",
+        "site_name": "As Oy Helsingin Auringonsilta",
+        "simple_id": 6607,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "585928fa-8aa0-e838-6bc1-bd5e172dd6b9",
+        "name": "JMSHUHUILIJA",
+        "site_name": "As Oy Espoon Huhuilija",
+        "simple_id": 6588,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ad5d61-24f3-ee87-09a6-1c6d8e1248e5",
+        "name": "JMSHUHUILIJA_A",
+        "site_name": "As Oy Espoon Huhuilija",
+        "simple_id": 7040,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5c1280b0-c373-03c5-32bd-57e4fc26f80e",
+        "name": "JMSHUHUILIJA_B",
+        "site_name": "As Oy Espoon Huhuilija",
+        "simple_id": 6031,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f0e9e254-14dc-b3d9-c4be-57e4fc35fe22",
+        "name": "JMSHUHUILIJA_KARMI",
+        "site_name": "As Oy Espoon Huhuilija",
+        "simple_id": 6032,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58592947-c3b9-579f-2b34-dfb1818c8480",
+        "name": "JMSHUHUILIJA_MALLI",
+        "site_name": "As Oy Espoon Huhuilija",
+        "simple_id": 6589,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58884e82-242c-48c8-d014-b5a31ae0160e",
+        "name": "JMSMARIE",
+        "site_name": "As Oy Helsingin Marie",
+        "simple_id": 6822,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5177e92a-e9e2-8a0f-1753-582963810def",
+        "name": "JMSMARIE_A",
+        "site_name": "As Oy Helsingin Marie",
+        "simple_id": 6358,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a7600186-7d50-49ca-ce90-5829715bce6f",
+        "name": "JMSMARIE_KARMI",
+        "site_name": "As Oy Helsingin marie",
+        "simple_id": 6359,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6841d9a3-7804-3ee7-7121-58298b873ac6",
+        "name": "JMSMARIE_KITTI",
+        "site_name": "As Oy Helsingin marie",
+        "simple_id": 6361,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ef3cdb-89d2-8c89-0807-f2e58d3e3584",
+        "name": "JMSMETSÄKETO",
+        "site_name": "As Oy Helsingin Metsäketo",
+        "simple_id": 7421,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ef3d19-26ad-533f-7fc9-50af126ca537",
+        "name": "JMSMETSÄKETO_A",
+        "site_name": "As Oy Helsingin Metsäketo",
+        "simple_id": 7422,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "99370863-3171-204e-1808-56825a35d7d5",
+        "name": "JMSMETSÄKETO_B",
+        "site_name": "As Oy Helsingin Metsäketo",
+        "simple_id": 4286,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "1a6cef6c-2a00-bd0b-c157-57348ceaa85b",
+        "name": "JMSMETSÄKETO_IKKUNAT",
+        "site_name": "As Oy Helsingin Pihanurmi",
+        "simple_id": 5216,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a2b50389-b883-5813-2299-57348c87d8d3",
+        "name": "JMSMETSÄKETO_KARMIT",
+        "site_name": "As Oy Helsingin Metsäketo",
+        "simple_id": 5215,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "590065db-806e-8811-a1e3-54b68ff910e6",
+        "name": "JMSMETSÄKETO_KITTI2",
+        "site_name": "As Oy Helsingin Metsäketo",
+        "simple_id": 7485,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "33be9ac9-b236-66e8-add7-57348217ce00",
+        "name": "JMSPIHANURMI_IKKUNAT",
+        "site_name": "As Oy Helsingin Pihanurmi",
+        "simple_id": 5211,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "1e787271-75f1-a9e2-7fd1-57ea5bc86ed7",
+        "name": "JOPLOKIKIRJA",
+        "site_name": "As Oy Oulun Lokikirja",
+        "simple_id": 6052,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5881bb96-c5f6-007f-79d0-3a2e35828b53",
+        "name": "JOPLOKIKIRJA_KARMI",
+        "site_name": "As Oy Oulun Lokikirja",
+        "simple_id": 6796,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58e3691c-7b8e-da5d-56e8-a2e27fc6747d",
+        "name": "JOPVUOTI",
+        "site_name": "Jopera OKT Vuoti Saila ja Sami",
+        "simple_id": 7342,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "584e8cdb-7b3e-8102-86e6-fbadd4459b06",
+        "name": "JUKALAVIIPPOLA",
+        "site_name": "OKT Olli Alaviippola",
+        "simple_id": 6530,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58762a1e-6906-cf9e-b18f-27cc8e6242a5",
+        "name": "JUKKAULIONIKO",
+        "site_name": "OKT Niko ja Iina Kaulio",
+        "simple_id": 6714,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58763bd4-5292-467c-b47e-9663482c5736",
+        "name": "JUKKAUPPALAOONA",
+        "site_name": "OKT Kauppala Oona ja Rauhala Vesa",
+        "simple_id": 6716,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "5892d61f-aebd-084a-a408-1300369c9240",
+        "name": "JUKLEHTINENJUHANA",
+        "site_name": "OKT Lehtinen Seija ja Juhana",
+        "simple_id": 6897,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a2a415-623d-ab8d-78ec-c4209c2648f4",
+        "name": "JUKLEHTOHIRO",
+        "site_name": "OKT Hiro ja Katja Lehto",
+        "simple_id": 6958,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a3eaf1-cde5-f3f1-3136-bd183894bd99",
+        "name": "JUKMÄKYNENJUHA",
+        "site_name": "OKT Juha ja Annastiina Mäkynen",
+        "simple_id": 6966,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "583c2226-77ce-1a8d-ee24-119ca4a0bf8a",
+        "name": "JUKNUPPONENJARI",
+        "site_name": "OKT Jari ja Maiju Nupponen",
+        "simple_id": 6452,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "587dbf6b-8086-8c94-ef6d-900540acff0f",
+        "name": "JUKRÄMÄNENREELIKA",
+        "site_name": "OKT Rämänen Reelika ja Tuomas",
+        "simple_id": 6763,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58aff46b-a7fa-4d0d-da99-975a99f90e01",
+        "name": "JUKVÄLITALOMIKA",
+        "site_name": "OKT Välitalo Mika",
+        "simple_id": 7070,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "14327ad7-0c39-838b-b013-533d4f35b2f7",
+        "name": "KALTERVAHOVINSIILOT_KARMI",
+        "site_name": "As Oy Oulun Tervahovin Siilot",
+        "simple_id": 397,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "98723008-efd9-712d-9577-53bf9eb11647",
+        "name": "KALTERVAHOVINVANHATSIILOT",
+        "site_name": "As Oy Oulun Tervahovin Vanhat  Siilot",
+        "simple_id": 1132,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "c6aa5456-487c-5d39-7745-570f45fbabd8",
+        "name": "KARHERRAINHIEKAT_2",
+        "site_name": "As Oy Kalajoen Herrain Hiekat 2",
+        "simple_id": 4982,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58b0159a-bc02-0e95-9e69-866ac661c284",
+        "name": "KARHERRAINHIEKAT_2KARMI",
+        "site_name": "As Oy Kalajoen Herrain Hiekat 2",
+        "simple_id": 7071,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58cbf664-5ba1-7128-c670-552e6e8e485b",
+        "name": "KARHERRAINHIEKAT_2KITTI",
+        "site_name": "As Oy Kalajoen Herrain Hiekat 2",
+        "simple_id": 7217,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58f9df18-9e8b-369e-be9e-6d39fdff81d0",
+        "name": "KARKELLOKOSKENKOULU_IKKUNA",
+        "site_name": "Kellokosken koulun laajennus ja muutostyöt",
+        "simple_id": 7453,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "1fd0886b-7ee0-7768-7b88-5804a0921951",
+        "name": "KARPORVOONA-ASUNNOTTALO97_IKKUNA",
+        "site_name": "Porvoon A-asunnot, Talo 97",
+        "simple_id": 6176,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58be47f9-bce1-e6e7-fea9-4f05825a56e5",
+        "name": "KASAARNIOMATTI",
+        "site_name": "OKT Aarnio Matti ja Salonen Outi",
+        "simple_id": 7137,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a3d605-9ebe-d1cb-e7e4-10c543648d73",
+        "name": "KASAHONENMATTI",
+        "site_name": "OKT Ahonen Matti",
+        "simple_id": 6961,
+        "business_location_id": "8f1aa722-3e74-1dcc-161f-51d3ddd03124"
+    },
+    {
+        "id": "58dde3ae-2595-640d-fb90-d29776ebba7a",
+        "name": "KASDMMARKETINGYRTTIMAANTIE",
+        "site_name": "OKT Dm -Marketing Oy",
+        "simple_id": 7311,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c8d7e9-566f-943e-1be5-d32839708ebc",
+        "name": "KASHEMMOERIK",
+        "site_name": "OKT Hemmo Erik",
+        "simple_id": 7190,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58d35d5a-1c0d-5e50-a26d-c7b0066c150e",
+        "name": "KASJUNTTIHEIKKI",
+        "site_name": "OKT Juntti Heikki",
+        "simple_id": 7242,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "592b9d4b-7cc2-1f7a-794f-b9d4e199f45f",
+        "name": "KASJUSSILASANNA_KORJAUS",
+        "site_name": "OKT Sanna Jussila ja Jyri Kirves",
+        "simple_id": 7655,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58ec5e18-5acc-4503-4318-82e0f6902bda",
+        "name": "KASKASANENHARRI",
+        "site_name": "OKT Kasanen Harri ja Sopanen Päivi",
+        "simple_id": 7392,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "59103303-efc1-3269-1b0f-8338370f41a6",
+        "name": "KASKOMIJARI",
+        "site_name": "OKT Komi Jari ja Tiina",
+        "simple_id": 7544,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58c784bb-d8be-e489-42c5-305ad31a4897",
+        "name": "KASKORPELAJUHA",
+        "site_name": "OKT Juha Korpela ja Mariana Nylund",
+        "simple_id": 7181,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c8d5a0-3f70-c994-f353-605645cd0712",
+        "name": "KASKÄMÄRÄINENTEEMU",
+        "site_name": "OKT Kämäräinen Teemu",
+        "simple_id": 7189,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58b7c5f4-892e-af50-7c05-d9bd0f2d8210",
+        "name": "KASLIUKKONENHANNE",
+        "site_name": "OKT Liukkonen Hanne ja Teemu",
+        "simple_id": 7093,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58c783b5-8c82-f675-5237-05c47295f6d8",
+        "name": "KASMAIJALAJYRKI",
+        "site_name": "OKT Maijala Jyrki",
+        "simple_id": 7180,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ec6094-e778-fe71-e7fb-c9e7d8f98d0e",
+        "name": "KASMASTERYHTIÖT15052017",
+        "site_name": "OKT Master Yhtiöt Oy",
+        "simple_id": 7393,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58d35c1d-a4c9-7331-bef6-13df704b39e6",
+        "name": "KASMOILANENERKKI",
+        "site_name": "OKT Moilanen Erkki, Esa",
+        "simple_id": 7241,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58fedd8c-ead2-f6c6-e1b9-09c5169448c5",
+        "name": "KASPAULTEEA",
+        "site_name": "OKT Teea ja Olli Paul",
+        "simple_id": 7467,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ec5b03-4469-635a-312c-56cfb79187ef",
+        "name": "KASPELTONENHEIKKI",
+        "site_name": "OKT Peltonen Heikki ja Annala Mira",
+        "simple_id": 7390,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58dde28e-1402-b50a-a720-99bc61f5ac68",
+        "name": "KASPIRINENJUSSI",
+        "site_name": "OKT Pirinen Jussi ja Sanna",
+        "simple_id": 7310,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ddd809-b28e-2f80-ed23-3337bb73a972",
+        "name": "KASPOHJARANTAPASI",
+        "site_name": "OKT Pohjaranta Pasi ja Granholm Mia",
+        "simple_id": 7308,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "58c8df84-8fe1-d3fd-55b1-9037eb02da80",
+        "name": "KASRAHKONENOLLI",
+        "site_name": "OKT Rahkonen Olli",
+        "simple_id": 7191,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58a3e26e-aab0-8064-b696-bd76f54ee840",
+        "name": "KASRUOKKEENLOMAKYLÄ_46979",
+        "site_name": "Ruokkeen Lomakylä Oy",
+        "simple_id": 6965,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58cb7a43-5d4f-047b-1139-45c647699793",
+        "name": "KASSISTONENSALLAMAARI/KARMINVAIHTO",
+        "site_name": "OKT Sallamaari Sistonen ja Reijo Väistö",
+        "simple_id": 7210,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58cb6cdf-ea59-5153-3bba-43888f0b6277",
+        "name": "KASTEITTOMERJA",
+        "site_name": "OKT Teitto Merja",
+        "simple_id": 7209,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58dc9deb-52c9-f6cc-8aa6-a44f881f69f7",
+        "name": "KASTIRIPERTTI",
+        "site_name": "OKT Tiri Pertti",
+        "simple_id": 7296,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58e32b9e-3175-66a3-468c-164accb895a9",
+        "name": "KASTOIVANENMIIA",
+        "site_name": "OKT Toivanen Miia ja Luomala Mikko",
+        "simple_id": 7338,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58dbb9cf-3065-c00d-0365-a0b7a31eb5ba",
+        "name": "KASTUOMIOJÄRVENLAINE_KITTI",
+        "site_name": "Kerrostalo As Oy Jyväskylän Tuomiojärven Laine",
+        "simple_id": 7295,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58ac4c49-b38e-c726-2d3f-c1e326618da6",
+        "name": "KASTUOMIOJÄRVENLIPLATUS_IKKUNA",
+        "site_name": "Kerrostalo As Oy Jyväskylän Tuomiojärven Liplatus ",
+        "simple_id": 7035,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58eb2dcb-5090-f32d-c24d-f760f6195f9f",
+        "name": "KASTUOMIOJÄRVENLIPLATUS_KITTI",
+        "site_name": "Kerrostalo As Oy Jyväskylän Tuomiojärven Laine",
+        "simple_id": 7382,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58dddfe4-d727-038f-fd8b-0caa0ad43f98",
+        "name": "KASVÄNSKÄMULTANENEILA",
+        "site_name": "OKT Vänskä-Multanen Eila",
+        "simple_id": 7309,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "5915b653-a5d5-6c20-61be-2c70dfccf583",
+        "name": "KASYLISIRNIÖMIKA_PÄÄOVIASENNUS",
+        "site_name": "Ylisirniö Mika",
+        "simple_id": 7582,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58c7f4e0-86e1-0969-df8a-eba26049641b",
+        "name": "KRUVUOREKSENKALLIO",
+        "site_name": "As Oy Vuoreksen Kallio",
+        "simple_id": 7187,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58aaf3b8-ef23-0d98-dc11-3f04c4d48d96",
+        "name": "KRUVUOREKSENKALLIO_1",
+        "site_name": "As Oy Vuoreksen Kallio",
+        "simple_id": 7020,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58c7f503-ed44-05f8-984c-aa90d15c9094",
+        "name": "KRUVUOREKSENKALLIO_2",
+        "site_name": "As Oy Vuoreksen Kallio",
+        "simple_id": 7188,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58bd5d20-d964-ee19-32b8-29a9834f3690",
+        "name": "KULKIRKKOJÄRVENPÄIVÄKOTI",
+        "site_name": "KIrkkojärven päivä- ja nuorisokoti",
+        "simple_id": 7134,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9fdb0c71-8ff9-dbe3-2fe3-57fcb0842522",
+        "name": "KVC_RAPPU_A",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6149,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "407653b4-4741-15ea-ad21-57fcb03fa92e",
+        "name": "KVC_RAPPU_B",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6150,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9f74b5f6-1494-d6cc-be83-56f0e41ad848",
+        "name": "KVC_RAPPU_C",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 4862,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "eb2dca51-0af7-29de-2dd6-574810b39b1d",
+        "name": "KVC_RAPPU_D",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 5344,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "b86ba0bd-7a76-5191-c667-57f370b6d40f",
+        "name": "KVC_RAPPU_E",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6084,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9839ea1b-70b3-a84b-04e4-57fcb07bbe0a",
+        "name": "KVC_RAPPU_F",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6148,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "76f6085f-27f8-be71-5b83-582ea586d919",
+        "name": "KVC_RAPPU_G",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6395,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c6369be6-d53f-737a-afcb-582ea5d7fc67",
+        "name": "KVC_RAPPU_H",
+        "site_name": "Kvarteret Victoria",
+        "simple_id": 6396,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ca8c2a-10ee-790c-63ea-2ea5e073b45e",
+        "name": "LAPANSATIE_KITTI",
+        "site_name": "Palvelukoti Lohjan Ansatie",
+        "simple_id": 7208,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "592e667c-4e7b-8eb8-0bbe-09293634b835",
+        "name": "LAPHVKKEMIÖ_KARMI",
+        "site_name": "HVK Kemiönsaari",
+        "simple_id": 7682,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "23d0fd0b-23e1-0ef1-a93b-57177c3c1399",
+        "name": "LAPKEMPELEENLINNA",
+        "site_name": "As Oy Kempeleen Linna",
+        "simple_id": 5059,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "d27d33ec-9891-2341-4d5f-5821e3fd2af3",
+        "name": "LAPKEMPELEENLINNA_KITTI",
+        "site_name": "As Oy Kempeleen Linna",
+        "simple_id": 6324,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "584fe19c-412e-54ad-45f9-46e6f92f2aaf",
+        "name": "LAPKIILAKIVI/OMASAIRAALA_KITTI",
+        "site_name": "Kiint Oy Kiilakivi Omasairaala",
+        "simple_id": 6542,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "65fde2a5-b0e4-296d-a1b7-575184b12c2f",
+        "name": "LAPKIILAKIVI/OMASAIRAALA1-2KRS",
+        "site_name": "Kiint Oy Kiilakivi Omasairaala",
+        "simple_id": 5375,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "bf3ee908-39cb-f3b1-aafc-576bcd0d8690",
+        "name": "LAPKIILAKIVI/OMASAIRAALAKARMI",
+        "site_name": "Kiint Oy Kiilakivi Omasairaala",
+        "simple_id": 5572,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "592ea030-754e-ef70-6018-788c29d7a41c",
+        "name": "LAPKIILAKIVI/OMASAIRAALAKARMI_3KERROS",
+        "site_name": "Kiint Oy Kiilakivi Omasairaala",
+        "simple_id": 7689,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "daa8ee48-bf03-b3d9-52c6-5717732ae293",
+        "name": "LAPMETSÄNSÄVEL",
+        "site_name": "As Oy Metsän Sävel",
+        "simple_id": 5058,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "b3200332-9a57-84d9-b7c4-5821ccf60b0b",
+        "name": "LAPMETSÄNSÄVEL_KARMI",
+        "site_name": "As Oy Metsän Sävel",
+        "simple_id": 6321,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5923fff2-eb0c-45df-3b9c-d1b9b605d3c1",
+        "name": "LAPMÄNTYKALLIO_IKKUNA",
+        "site_name": "As Oy Munkkivuoren Mäntykallio",
+        "simple_id": 7628,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "590af121-52ce-027b-a27b-1ce7980748f6",
+        "name": "LAPNAHKASUUTARINTIE",
+        "site_name": "TA-Asumisoikeus Oy Nahkasuutarintie 7",
+        "simple_id": 7513,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "587cab2a-a577-964b-1fe9-de0ca955c39b",
+        "name": "LAPNAHKASUUTARINTIE_A",
+        "site_name": "TA-Asumisoikeus Oy Nahkasuutarintie 7",
+        "simple_id": 6745,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5876242b-6ce6-956b-bd32-d42219c8ecec",
+        "name": "LAPNAHKASUUTARINTIE_IKKUNA",
+        "site_name": "Nahkasuutarintie 7",
+        "simple_id": 6708,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58aa7a74-38dd-53ee-4940-ad24f7f57162",
+        "name": "LAPNAHKASUUTARINTIE_KARMI",
+        "site_name": "TA-Asumisoikeus Oy Nahkasuutarintie 7",
+        "simple_id": 7006,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "587624c9-cffb-311d-7603-703c00dac9ec",
+        "name": "LAPNAHKASUUTARINTIE_KITTI",
+        "site_name": "Nahkasuutarintie 7",
+        "simple_id": 6709,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "67770330-3cba-681d-74bc-5821d9a05022",
+        "name": "LAPRANTARAITTI",
+        "site_name": "Päiväkoti Rantaraitti",
+        "simple_id": 6322,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58d8be96-54c2-0fe4-858f-c0688e287ca0",
+        "name": "LAPRANTARAITTI_KARMITUS",
+        "site_name": "Päiväkoti Rantaraitti",
+        "simple_id": 7275,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "95da738a-693b-ad4f-5271-575f9e3065c9",
+        "name": "LAPSUURPELONHOIVAKESKUS_IKKUNAT",
+        "site_name": "Suurpellon hoivakeskus",
+        "simple_id": 5454,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e2205d3b-bc0d-1242-fe12-575fa13a1228",
+        "name": "LAPSUURPELONHOIVAKESKUS_KARMI",
+        "site_name": "Suurpellon hoivakeskus",
+        "simple_id": 5456,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d2630f-d690-ace4-1e9e-f248d559b330",
+        "name": "LAPVALOTAR",
+        "site_name": "As Oy Vantaan Valotar",
+        "simple_id": 7239,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "51b5be61-2bc2-6f90-8fa4-575fbd1b1955",
+        "name": "LAPVALOTAR_A",
+        "site_name": "As Oy Vantaan Valotar",
+        "simple_id": 5460,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f1fc4a1b-3832-63b7-8ac6-575fbec7b326",
+        "name": "LAPVALOTAR_KARMI",
+        "site_name": "As Oy Vantaan Valotar",
+        "simple_id": 5461,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "47f9e2e1-9b08-b13f-aa69-564d752d8756",
+        "name": "LAPVUORELANHOHTO",
+        "site_name": "Vuorelan Hohto",
+        "simple_id": 3974,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5892f30d-e8f9-025d-90ce-24cbfc5844db",
+        "name": "LEHATTENDOYLÖJÄRVI",
+        "site_name": "Attendo Ylöjärvi",
+        "simple_id": 6898,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "5892f336-5aed-0ccd-712e-266481c07b4e",
+        "name": "LEHATTENDOYLÖJÄRVI_KARMIT",
+        "site_name": "Attendo Ylöjärvi",
+        "simple_id": 6899,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "5886fc03-cf5b-4d4f-dbeb-985d522e5d7b",
+        "name": "LEHIIHAMINANKOULU",
+        "site_name": "Ii Haminan Koulu",
+        "simple_id": 6808,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58918168-205f-859d-a625-346e06ec1e8e",
+        "name": "LEHIIHAMINANKOULU_KARMI",
+        "site_name": "Ii Haminan Koulu",
+        "simple_id": 6886,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5890802e-e0f0-0b5d-88b4-804d87007edb",
+        "name": "LEHIIHAMINANKOULU_KITTI",
+        "site_name": "Ii Haminan Koulu",
+        "simple_id": 6883,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5908167b-b8f4-d04e-aeee-d728ac9bdff8",
+        "name": "LEHLINDSTRÖMINPESULA_KARMI",
+        "site_name": "Lindströmin pesula",
+        "simple_id": 7497,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58736b4d-7835-5053-ce8a-3ef746bb5bfb",
+        "name": "LEMAINO",
+        "site_name": "As Oy Aino",
+        "simple_id": 6686,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "58a6db3a-39c9-b19e-bba3-62adbb645b1b",
+        "name": "LEMARABICA",
+        "site_name": "As Oy Helsingin Arabica",
+        "simple_id": 6994,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a016af5d-9b23-cfd4-4e4f-568ba3c0fa16",
+        "name": "LEMARABICA_A",
+        "site_name": "As Oy Helsingin Arabica",
+        "simple_id": 4401,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a6db69-6f5c-da21-e90a-155c1d150919",
+        "name": "LEMARABICA_B",
+        "site_name": "As Oy Helsingin Arabica",
+        "simple_id": 6995,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a6dc3e-ed15-4ea0-7c64-0e56d472cd9c",
+        "name": "LEMARABICA_MALLI",
+        "site_name": "As Oy Helsingin Arabica",
+        "simple_id": 6997,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "33bf0a5b-2cb2-417b-012e-55e6ce8188f4",
+        "name": "LEMEDUSKUNNAN_E_RAKENNUS",
+        "site_name": "Eduskunnan E-rakennus",
+        "simple_id": 3468,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c10786-ba76-0712-c92a-3c76872dda10",
+        "name": "LEMELIMÄKIKOTI_KARMI",
+        "site_name": "Elimäkikoti",
+        "simple_id": 7164,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58c1073f-5425-5a20-0480-c0c4de6e978b",
+        "name": "LEMELIMÄKIKOTI_LISTA",
+        "site_name": "Elimäkikoti",
+        "simple_id": 7163,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "810d9a2a-6cd1-0ead-adbd-56b9de2bfc0b",
+        "name": "LEMHIUKKAVAARANMONITOIMITALO",
+        "site_name": "Hiukkavaaran monitoimitalo",
+        "simple_id": 4662,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "1f8a22c1-c6da-d706-5d9d-5825c10cb318",
+        "name": "LEMHIUKKAVAARANMONITOIMITALO_KARMI",
+        "site_name": "Hiukkavaaran Monitoimitalo",
+        "simple_id": 6353,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "583ed4a1-5d3d-65ae-6789-34456512e1a7",
+        "name": "LEMHIUKKAVAARANMONITOIMITALO_KENSET",
+        "site_name": "Hiukkavaaran Monitoimitalo",
+        "simple_id": 6466,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "589c09f7-ae06-c79c-0068-1b3d0ceb8383",
+        "name": "LEMHOPEATÄPLÄ",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6931,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "16fbdc23-7a03-2a58-c41f-5743e1d9c79d",
+        "name": "LEMHOPEATÄPLÄ_A",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 5313,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589c0a23-4eb7-7702-294a-313d1bea591f",
+        "name": "LEMHOPEATÄPLÄ_B",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6932,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5836d3f9-11ea-26e7-a36f-37dc6199d62d",
+        "name": "LEMHOPEATÄPLÄ_KARMI",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6433,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5836d413-a477-04eb-03c6-2bd2e1bc8034",
+        "name": "LEMHOPEATÄPLÄ_KITTI",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6434,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f39f08f3-cc00-5846-b28f-57550fd97e05",
+        "name": "LEMJYNKÄNKOULU",
+        "site_name": "Jynkän koulu",
+        "simple_id": 5377,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "59087268-9708-5927-cfa3-a1cf32576b4f",
+        "name": "LEMKANELLA",
+        "site_name": "As Oy Helsingin Kanella",
+        "simple_id": 7498,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "590872a7-524a-5306-c030-49b83c850419",
+        "name": "LEMKANELLA_C",
+        "site_name": "As Oy Helsingin Kanella",
+        "simple_id": 7500,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "88e2370c-3e5d-bf5a-451a-574305c7d905",
+        "name": "LEMKEMPELEENTERVEYSKESKUS_SANEERAUSVAIHE1",
+        "site_name": "Terveyskeskuksen peruskorjaus ja laajennus Kempeleeseen",
+        "simple_id": 5310,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "584fb581-9c8f-fcda-10e1-13bb74ddd5a8",
+        "name": "LEMKEMPELEENTERVEYSKESKUSSANEERAUS_KARMIVAIHE1",
+        "site_name": "Terveyskeskuksen peruskorjaus ja laajennus Kempeleeseen",
+        "simple_id": 6535,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58735e48-8516-64d4-219c-636d4cba04a4",
+        "name": "LEMLEINIKKI ",
+        "site_name": "As Oy Vantaan Leinikki ",
+        "simple_id": 6682,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "66d169bb-3b01-4283-bc3d-568ba79a748d",
+        "name": "LEMLEINIKKI_A",
+        "site_name": "As Oy Vantaan Leinikki ",
+        "simple_id": 4408,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58735e5f-9637-36eb-2fe4-6b75fb90ceda",
+        "name": "LEMLEINIKKI_B",
+        "site_name": "As Oy Vantaan Leinikki ",
+        "simple_id": 6683,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d78b9e28-dd8f-ece9-1772-5773614536a5",
+        "name": "LEMLEINIKKI_KARMI",
+        "site_name": "As Oy Vantaan Leinikki ",
+        "simple_id": 5598,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5837e67b-3678-48d7-e704-5c430f2863fe",
+        "name": "LEMLEINIKKI_KITTI",
+        "site_name": "As Oy Vantaan Leinikki ",
+        "simple_id": 6439,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "95a7bc80-7e82-1e03-fcc0-582c00386e2e",
+        "name": "LEMLEIPURI_A",
+        "site_name": "As Oy Seinäjoen Leipuri",
+        "simple_id": 6378,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "5864d58e-7db3-9e68-ad14-a262c35d41d2",
+        "name": "LEMLEIPURI_B",
+        "site_name": "As Oy Seinäjoen Leipuri",
+        "simple_id": 6642,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "588f2ec3-7636-fb65-bf01-67f3af925fd3",
+        "name": "LEMMANNISENRINNE4",
+        "site_name": "As.Oy Mannisenrinne 4",
+        "simple_id": 6857,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58a6f35c-4201-1db8-ed5c-d58a5146d914",
+        "name": "LEMMANNISENRINNE4_KARMI",
+        "site_name": "As.Oy Mannisenrinne 4",
+        "simple_id": 7003,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "58dca430-dc0a-aea6-3e05-497446745a76",
+        "name": "LEMMERIPIHKA ",
+        "site_name": "As Oy Helsingin Meripihka ",
+        "simple_id": 7297,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58dca46d-8839-6b7b-f68a-ae3c8652595f",
+        "name": "LEMMERIPIHKA_C",
+        "site_name": "As Oy Helsingin Meripihka ",
+        "simple_id": 7299,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "eb704d27-2092-cc12-1bb3-57e13214b5e4",
+        "name": "LEMMERIPIHKA_KARMI",
+        "site_name": "As Oy Helsingin Meripihka ",
+        "simple_id": 6014,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "383261bb-24c9-b4c1-127a-57e1322d18ce",
+        "name": "LEMMERIPIHKA_KITTI",
+        "site_name": "As Oy Helsingin Meripihka ",
+        "simple_id": 6015,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58735153-54c2-82fe-c824-4bbd15649875",
+        "name": "LEMPOIJU ",
+        "site_name": "As Oy Helsingin Poiju",
+        "simple_id": 6679,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3148f647-24db-4bce-5601-568ba15f5e1d",
+        "name": "LEMPOIJU_A",
+        "site_name": "As Oy Helsingin Poiju",
+        "simple_id": 4399,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58735192-ac70-9dfc-c5e1-695883c0580b",
+        "name": "LEMPOIJU_B",
+        "site_name": "As Oy Helsingin Poiju",
+        "simple_id": 6680,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5eb09b68-e88c-8009-d07c-57d7c86582f4",
+        "name": "LEMPOIJU_KARMI",
+        "site_name": "As Oy Helsingin Poiju",
+        "simple_id": 5964,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58cf8a9e-d984-9874-915f-eaddf2168404",
+        "name": "LEMPOIJU_KITTI",
+        "site_name": "As Oy Helsingin Poiju",
+        "simple_id": 7223,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58907a36-1d5a-1a19-4a96-e36dd38697ef",
+        "name": "LEMPOSTELJOONI",
+        "site_name": "Kerrostalo As Oy Helsingin Käpylän Posteljooni ",
+        "simple_id": 6877,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58907a4b-e789-8ee0-3879-8605276505f0",
+        "name": "LEMPOSTELJOONI_B",
+        "site_name": "Kerrostalo As Oy Helsingin Käpylän Posteljooni ",
+        "simple_id": 6878,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58907a73-dfe5-31f0-d979-8505eee55a55",
+        "name": "LEMPOSTELJOONI_C",
+        "site_name": "Kerrostalo As Oy Helsingin Käpylän Posteljooni ",
+        "simple_id": 6879,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "4880176a-a24c-5930-4a84-568bad341098",
+        "name": "LEMPOSTELJOONI_KARMI",
+        "site_name": "Kerrostalo As Oy Helsingin Käpylän Posteljooni ",
+        "simple_id": 4414,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ef4cb1-2e89-0878-4c06-964336540628",
+        "name": "LEMPUDASJÄRVENPALVELUTALO_KARMI_KORJAUS",
+        "site_name": "Pudasjärven Palvelukoti",
+        "simple_id": 7428,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "44cb248f-db03-4e8f-ea89-5673eaa15073",
+        "name": "LEMPUIJONGRANIITTI",
+        "site_name": "As Oy Kuopion Puijon Graniitti",
+        "simple_id": 4228,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5864d459-be89-cb4f-2ee2-a4fc07d03b2f",
+        "name": "LEMSEINÄJOENLEIPURI",
+        "site_name": "As Oy Seinäjoen Leipuri",
+        "simple_id": 6641,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "baeceb5f-eeb9-89e4-42a6-5743dda9ee2a",
+        "name": "LEMSUVIRANTA",
+        "site_name": "As Oy Vantaan Suviranta",
+        "simple_id": 5312,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5836d36b-4765-482e-12f5-6d1ce3f21278",
+        "name": "LEMSUVIRANTA_KARMI",
+        "site_name": "As Oy Vantaan Suviranta",
+        "simple_id": 6431,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589b0d4c-6487-3a31-1704-d3c9ad1dcbb1",
+        "name": "LEMUKONHATTU_KARMITUS",
+        "site_name": null,
+        "simple_id": 6927,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "5834213a-40db-0493-76ff-8fdfad924faa",
+        "name": "LUJ_TOIVONKATU_ikkuna_LPR",
+        "site_name": null,
+        "simple_id": 6411,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "586d01b8-9f9f-4d17-8cb3-574b1401677b",
+        "name": "LUJ_TOIVONKATU_kitti_LPR",
+        "site_name": null,
+        "simple_id": 6667,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "bcf695d5-2cee-6294-914f-581c5b65c3a6",
+        "name": "LUJ_TOIVONKATU_lista_LPR",
+        "site_name": null,
+        "simple_id": 6294,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58bd1bdf-8c10-c0c1-fd4b-93fe458aa0e8",
+        "name": "LUJHERTTONIEMENRANTA",
+        "site_name": "TA Herttoniemenranta",
+        "simple_id": 7131,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "583fab78-8624-e7c7-862f-8e4375cdf19a",
+        "name": "LUJHERTTONIEMENRANTA_MALLI",
+        "site_name": "TA Herttoniemenranta",
+        "simple_id": 6469,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a767d6ac-de38-4fa1-911c-573bf15c276e",
+        "name": "LUJISOSAARENTIE_A",
+        "site_name": "Isosaarentie 2",
+        "simple_id": 5253,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d3830c-9e0c-77c3-88d7-ed2cb2e83b01",
+        "name": "LUJISOSAARENTIE_B",
+        "site_name": "Isosaarentie 2",
+        "simple_id": 7252,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d382d4-c435-4e33-d177-d8ad45590ae3",
+        "name": "LUJISOSAARENTIE2",
+        "site_name": "Isosaarentie 2",
+        "simple_id": 7251,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59100c9b-1877-e0ca-0b69-a2f51479d017",
+        "name": "LUJKISSANKULMA",
+        "site_name": "Joupinraja 2B/Kissankulma",
+        "simple_id": 7539,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "586e4633-3e6f-45d2-0032-de2bcc1a0cd9",
+        "name": "LUJKISSANKULMA_1",
+        "site_name": "Joupinraja 2B/Kissankulma",
+        "simple_id": 6671,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "58ad57b4-c732-2720-8756-675ef396b1ba",
+        "name": "LUJKISSANKULMA_MALLI",
+        "site_name": "Seinäjoen Kissankulma",
+        "simple_id": 7039,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "58dcceaf-161d-9f16-13f5-ea5d66d2f9a2",
+        "name": "LUJMERITÄHTI",
+        "site_name": "TA Herttoniemenranta",
+        "simple_id": 7302,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5837dcd7-e25b-dc0f-ea89-4df9ea682cfb",
+        "name": "LUJPAAPUURI",
+        "site_name": "Aso Tyyrpuuri ja KOy Paapuuri",
+        "simple_id": 6435,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5888aafb-ddc3-9e5f-f354-f72c27ea0d1f",
+        "name": "LUJROSALANMÄKI",
+        "site_name": "As Oy Helsingin Rosalanmäki",
+        "simple_id": 6837,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "af472e83-6267-678a-3d2e-564b2c0fcdf6",
+        "name": "LUJROSALANMÄKI_A",
+        "site_name": "As Oy Helsingin Rosalanmäki",
+        "simple_id": 3954,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5888ab3f-6f27-5486-3959-6a3becb2d81c",
+        "name": "LUJROSALANMÄKI_B",
+        "site_name": "As Oy Helsingin Rosalanmäki",
+        "simple_id": 6838,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5888ab73-22f9-66e6-c99e-bc90c81a79b4",
+        "name": "LUJROSALANMÄKI_C",
+        "site_name": "As Oy Helsingin Rosalanmäki",
+        "simple_id": 6839,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ad94490b-221f-06d0-4d6e-5829a21cb27f",
+        "name": "LUJTREDULEMPÄÄLÄ",
+        "site_name": "Tredu Lempäälä perusparannus ja laajennus",
+        "simple_id": 6365,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "2b329678-6ad9-25cb-d4ef-5829a3ea29f1",
+        "name": "LUJTREDULEMPÄÄLÄ_karmitus",
+        "site_name": "Tredu Lempäälä perusparannus ja laajennus",
+        "simple_id": 6367,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "c34b9551-07bc-1df3-2dbd-5829a2c92655",
+        "name": "LUJTREDULEMPÄÄLÄ_kittaus",
+        "site_name": "Tredu Lempäälä perusparannus ja laajennus",
+        "simple_id": 6366,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "5837df8e-ab96-69c9-239b-f4ccf596234d",
+        "name": "LUJTYYRPUURI",
+        "site_name": "Aso Tyyrpuuri ja KOy Paapuuri",
+        "simple_id": 6436,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "dd035c74-2710-07e8-1950-564b2faa9437",
+        "name": "LUJTYYRPUURI_A",
+        "site_name": "Aso Tyyrpuuri ja KOy Paapuuri",
+        "simple_id": 3958,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5837dfa8-4a1e-6c72-7db7-5e069c11550d",
+        "name": "LUJTYYRPUURI_B",
+        "site_name": "Aso Tyyrpuuri ja KOy Paapuuri",
+        "simple_id": 6437,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5837e00a-726e-8c5b-fdab-cf180ed01d12",
+        "name": "LUJTYYRPUURI_C",
+        "site_name": "Aso Tyyrpuuri ja KOy Paapuuri",
+        "simple_id": 6438,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c25945-9dba-b789-23da-11975823580f",
+        "name": "LUJVISATIE",
+        "site_name": "Nikkarinkruunu Oy / Visatie 16",
+        "simple_id": 7175,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "583faa1f-5bf4-a89f-6ef6-40ee365145f1",
+        "name": "LUJVISATIE_A",
+        "site_name": "Nikkarinkruunu Oy / Visatie 16",
+        "simple_id": 6468,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c25965-9dd0-dc6a-eb80-a7f8415a04a6",
+        "name": "LUJVISATIE_B",
+        "site_name": "Nikkarinkruunu Oy / Visatie 16",
+        "simple_id": 7176,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5919590f-461f-0a15-a6f4-f519b09c1831",
+        "name": "MACRA_PALOASEMA_MIEHIKKÄLÄ_LISTA",
+        "site_name": "Miehikkälän Paloasema",
+        "simple_id": 7585,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "59195d80-82b9-0dee-e162-1b8917dc2026",
+        "name": "MEDTASANKOTIEN_HOIVAKOTI_KOUVOLA",
+        "site_name": "Tasankotien Hoivakoti",
+        "simple_id": 7586,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "53522371-9b3f-070a-d5f6-57fb2d1760e7",
+        "name": "NCCALBERGA_E",
+        "site_name": "Alberga E",
+        "simple_id": 6136,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d4bbb4-c795-ac28-a949-4d4456d842af",
+        "name": "NCCALPPIRINNE_VK",
+        "site_name": "As Oy Helsingin Alppirinne",
+        "simple_id": 7263,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "47d9d0c1-7f30-27b7-6f21-57e3cbe3e3f7",
+        "name": "NCCAMPEERI",
+        "site_name": "Kerrostalo As Oy Espoon Amperi",
+        "simple_id": 6028,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58aebcfc-99f5-f90a-264e-fa3d10cd12f6",
+        "name": "NCCAMURIN HURMURI",
+        "site_name": "AS OY TAMPEREEN AMURIN HURMURI",
+        "simple_id": 7063,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "2892839d-c4b3-1735-3d0d-564d9db79be5",
+        "name": "NCCAMURINHURMURI_1",
+        "site_name": "AS OY TAMPEREEN AMURIN HURMURI",
+        "simple_id": 3986,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58aebd20-3a8f-adad-9b91-865817f97989",
+        "name": "NCCAMURINHURMURI_2",
+        "site_name": "AS OY TAMPEREEN AMURIN HURMURI",
+        "simple_id": 7064,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58a597c2-69f2-9e71-d7ba-0a2d7ef0ebce",
+        "name": "NCCATLANTINKATU7",
+        "site_name": "Atlantinkatu 7 Ki.Oy Helsingin",
+        "simple_id": 6987,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58da1d03-d9a8-2239-40a5-392b1d224c44",
+        "name": "NCCATLANTINKATU7_A",
+        "site_name": "Atlantinkatu 7 Ki.Oy Helsingin",
+        "simple_id": 7283,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c73cdfde-f94d-179c-89f8-57834c4de724",
+        "name": "NCCATLANTINKATU7_B",
+        "site_name": "Atlantinkatu 7 Ki.Oy Helsingin",
+        "simple_id": 5629,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "92e704b0-e428-9150-368e-5720804142be",
+        "name": "NCCATLANTINKATU7_IKKUNAT",
+        "site_name": "Atlantinkatu 7 Ki.Oy Helsingin",
+        "simple_id": 5085,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "78570efc-de9e-87a3-189c-572082d3954a",
+        "name": "NCCATLANTINKATU7_KITTI",
+        "site_name": "Atlantinkatu 7 Ki.Oy Helsingin",
+        "simple_id": 5091,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58abebff-c9b2-b70e-93d9-d8e4bbd606e5",
+        "name": "NCCAVAINMARTINLAAKSO",
+        "site_name": "AVAIN Martinlaakso",
+        "simple_id": 7027,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58abec46-88af-f16e-5fe9-5a25fc22fd17",
+        "name": "NCCAVAINMARTINLAAKSO_B",
+        "site_name": "AVAIN Martinlaakso",
+        "simple_id": 7029,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584960ec-9f86-0ed9-9b35-52798b27e937",
+        "name": "NCCAVAINMARTINLAAKSO_C",
+        "site_name": "AVAIN Martinlaakso",
+        "simple_id": 6513,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584a4c1d-384e-2b20-7650-b167eedf86b7",
+        "name": "NCCAVAINMARTINLAAKSO_KARMI",
+        "site_name": "AVAIN Martinlaakso",
+        "simple_id": 6523,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "88cae15b-6a60-93a3-cfb6-57f4b6eb7f96",
+        "name": "NCCAVAINMARTINLAAKSO_KITTI",
+        "site_name": "Avain Martinlaakso",
+        "simple_id": 6097,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5857b0dd-7708-bba7-68a2-bd66cf982210",
+        "name": "NCCAVAINMARTINLAAKSO_LATTIA",
+        "site_name": "AVAIN Martinlaakso",
+        "simple_id": 6573,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "4e9e099d-d529-406b-d718-556c078d7ddd",
+        "name": "NCCBISKETTI",
+        "site_name": "As Oy Helsingin Bisketti",
+        "simple_id": 2750,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e593239f-8753-2a92-d98e-5518d78535f2",
+        "name": "NCCBISKETTI_MALLI",
+        "site_name": "As Oy Helsingin Bisketti",
+        "simple_id": 2415,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e7805635-be3f-0f55-bb28-57d8fba4437e",
+        "name": "NCCBITTIUM_IKKUNAKITTAUS",
+        "site_name": "Bittium Oy Pääkonttori",
+        "simple_id": 5968,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "edaf053c-dc59-7fa3-40d9-5819e9975b3d",
+        "name": "NCCBITTIUM_KARMI",
+        "site_name": "Bittium pääkonttori",
+        "simple_id": 6270,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58fa0313-5f1d-3ee7-36dd-d2c0ab1aac10",
+        "name": "NCCBITTIUM_MALLI",
+        "site_name": "Bittium pääkonttori",
+        "simple_id": 7454,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58fefa57-3c3c-62e6-78ed-a7ec1e17e704",
+        "name": "NCCFRIDA_MALLIHUONE",
+        "site_name": "As Oy Oulun Frida",
+        "simple_id": 7472,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "25a31130-b50f-58a7-bb01-55e7df334bf8",
+        "name": "NCCHELIOS",
+        "site_name": "Kerrostalo As Oy Vantaan Helios",
+        "simple_id": 3485,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "20e9f501-8d70-c93a-8f4f-574c149a4a31",
+        "name": "NCCHELIOS_KARMI",
+        "site_name": "Kerrostalo As Oy Vantaan Helios",
+        "simple_id": 5350,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "34d70abe-f3df-89dc-7c7c-57b5aab3d466",
+        "name": "NCCHELIOS_KITTI",
+        "site_name": "Kerrostalo As Oy Vantaan Helios",
+        "simple_id": 5781,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "dfaa76e9-25ee-46c1-cbbd-574c13bd7b92",
+        "name": "NCCHELIOS_LATTIA",
+        "site_name": "Kerrostalo As Oy Vantaan Helios",
+        "simple_id": 5349,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9a735e19-3889-3e72-e6e1-5705e9651b08",
+        "name": "NCCHYVÄNTOIVONPUISTO_LATTIAT",
+        "site_name": "As Oy Hyväntoivonpuisto ",
+        "simple_id": 4938,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c484787b-9998-eec5-055f-57d65693fc00",
+        "name": "NCChyvätoivonpuisto_lattian korjaukset",
+        "site_name": "As Oy Hyväntoivonpuisto",
+        "simple_id": 5946,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "16d05223-ae41-2878-3aa4-57318da71f11",
+        "name": "NCCKARANLAHTI_IKKUNAT",
+        "site_name": "Karanlahti Ki. Oy ",
+        "simple_id": 5185,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "590c36b4-ccc1-d912-ef86-4ee8ff62996d",
+        "name": "NCCKISSANMAANKATU 20/2",
+        "site_name": "TOAS KISSANMAANKATU 20",
+        "simple_id": 7535,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "ca09124b-239c-0674-6bda-564d89744795",
+        "name": "NCCKISSANMAANKATU_1",
+        "site_name": "TOAS KISSANMAANKATU 20",
+        "simple_id": 3980,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58c0214a-40dd-e808-00b6-941326d55387",
+        "name": "NCCKONSTRUKTÖÖRI",
+        "site_name": "As Oy Konstruktööri",
+        "simple_id": 7160,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "e2d60641-9f56-149e-fa72-5735aacb3ae4",
+        "name": "NCCKOTISIILO_KARMI",
+        "site_name": "As Oy Järvenpään Kotisiilo ",
+        "simple_id": 5220,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58aaefdf-aa4c-6546-6703-60e03addb6b6",
+        "name": "NCCLAHDENKAUPUNGINSAIRAALA",
+        "site_name": "Lahden kaupunginsairaala",
+        "simple_id": 7018,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "b9e0f726-de38-a71d-5c97-581acac63922",
+        "name": "NCCLEPPÄVIRRANPALVELUTALO",
+        "site_name": "Leppävirran Pappilanpuisto",
+        "simple_id": 6273,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58e39b89-18a6-fb1f-a263-3c2beea2e951",
+        "name": "NCCLEPPÄVIRRANPALVELUTALO_KARMI",
+        "site_name": "Leppävirran Pappilanpuisto",
+        "simple_id": 7349,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "587c662b-46d3-173f-af74-d8d5fe39d1dc",
+        "name": "NCCLKS_Lohko_J,K",
+        "site_name": "Lahden kaupunginsairaala",
+        "simple_id": 6738,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "21a1953f-300f-ee0a-3d08-568b8ae125b3",
+        "name": "NCCRAKUUNAPUISTO",
+        "site_name": "AS OY RAKUUNANPUISTO",
+        "simple_id": 4392,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "591456b8-7c8b-f965-b940-b67915ea8a92",
+        "name": "NCCRAKUUNAPUISTO_TALOA",
+        "site_name": "As Oy Rakuunapuisto",
+        "simple_id": 7575,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "cbb013a2-a0e9-c298-c9e9-56d6dc23364d",
+        "name": "NCCRANTAROUSTINKOULU",
+        "site_name": "Rantaroustin koulu",
+        "simple_id": 4784,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "584fff74-748c-e366-e5a1-c23480d8ccd1",
+        "name": "NCCRANTAROUSTINKOULU_KARMI",
+        "site_name": "Rantaroustin koulu",
+        "simple_id": 6543,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "588ee30a-77ee-9d66-e2f1-fa6e4f51f2ad",
+        "name": "NCCRANTAROUSTINKOULU_KITTI",
+        "site_name": "Rantaroustin koulu",
+        "simple_id": 6854,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58737d60-d3d6-16f9-318f-8843e3481e7e",
+        "name": "NCCROKKIKOTI1JA2",
+        "site_name": "Rokkikoti 1 ja 2",
+        "simple_id": 6690,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "d5af2967-3386-241d-9002-570e3a2cc887",
+        "name": "NCCSETLEMENTTIASUNNO_LATTIAT",
+        "site_name": "As Oy Setlementtiasunnot",
+        "simple_id": 4978,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3f1c2cac-fe25-e7ca-bc36-56409d051d65",
+        "name": "NCCSETLEMENTTIASUNNOT",
+        "site_name": "As Oy Setlementtiasunnot",
+        "simple_id": 3887,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ac0074-577e-3e74-0df2-325b3feed579",
+        "name": "NCCSIBELIUKSENKATU27_KARMI",
+        "site_name": "As Oy /KOy Sibeliuksenkatu 27",
+        "simple_id": 7031,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "bc8bab9f-9558-fc78-8371-57ea67364b2d",
+        "name": "OKVOULUNSALONREMEKSENTIE",
+        "site_name": "As Oy Oulunsalon Remeksentie",
+        "simple_id": 6054,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "1996e54a-daa1-866c-b402-5770b70cb009",
+        "name": "OMEJALAVAPIHA",
+        "site_name": "As Oy Kauniaisten Jalavapiha",
+        "simple_id": 5579,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58368be7-4e65-b988-7df4-89943e82e4f0",
+        "name": "OMEPAAPUURINPÄIVÄKOTI_IKKUNA",
+        "site_name": "Paapurin päiväkoti",
+        "simple_id": 6428,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58884661-e33b-9c28-b097-b33ce7388200",
+        "name": "ORMNOKIKANANTIE1-7",
+        "site_name": "Oulun Sivakka Oy / Oulun Nokikanantie 1-7",
+        "simple_id": 6818,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "588846fe-9356-9901-f04a-493d1b881c24",
+        "name": "ORMNOKIKANANTIE1-7CjaE",
+        "site_name": "Oulun Sivakka Oy / Oulun Nokikanantie 1-7",
+        "simple_id": 6819,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58870b5d-cbb1-a8c8-0f89-e8eb0c9db8a8",
+        "name": "ORMNOKIKANANTIE1-7D",
+        "site_name": "Oulun Sivakka Oy / Oulun Nokikanantie 1-7",
+        "simple_id": 6812,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "bfe033f9-7be5-7aa1-2e97-57f1f2c75728",
+        "name": "ORTKARDEMUMMA",
+        "site_name": "As Oy Kiulukankaan Kardemumma",
+        "simple_id": 6081,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58c7c7a7-890e-0591-c7a1-bcb6a3936ee8",
+        "name": "ORTKARDEMUMMA_KARMI",
+        "site_name": "As Oy Kiulukankaan Kardemumma",
+        "simple_id": 7186,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "ec588c08-2d8b-ba7c-69ae-5816f8f33c89",
+        "name": "ORTPILKE_KARMI",
+        "site_name": "As Oy Oulun Pilke",
+        "simple_id": 6246,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "df6a7b6f-1d08-624c-1a3d-57208411556a",
+        "name": "ORTSALMENRANNANVÄYLÄ_GTALO",
+        "site_name": "As Oy Oulun Salmenrannan Väylä",
+        "simple_id": 5093,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58c8ee27-b8bf-0230-10c2-4bd3163afd5f",
+        "name": "ORTSALMENRANNANVÄYLÄ_GTALO_KITTI",
+        "site_name": "As Oy Oulun Salmenrannan Väylä",
+        "simple_id": 7192,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "bdb44aec-1137-1867-0b09-57f5d660030b",
+        "name": "ORTSALMENRANNANVÄYLÄ_HTALO",
+        "site_name": "As Oy Oulun Salmenrannan Väylä",
+        "simple_id": 6114,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "584ed29a-6ce8-005f-340c-54a12c85862f",
+        "name": "PAKSEASIDE",
+        "site_name": "Radisson Blu Seaside",
+        "simple_id": 6533,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a982005f-5bfe-913e-9307-56652509c7a1",
+        "name": "PAKSEASIDE_VAIHE3",
+        "site_name": "Radisson Blu Seaside",
+        "simple_id": 4083,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589b321a-1118-bdbd-2764-6fcb6f0b9c80",
+        "name": "PAKSEASIDE_VAIHE3 (2/2017)",
+        "site_name": "Radisson Blu Seaside",
+        "simple_id": 6930,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d36970-868d-3d44-c271-0186b86675e9",
+        "name": "PAKSEASIDE_VAIHE3 (5/2017)",
+        "site_name": "Radisson Blu Seaside",
+        "simple_id": 7245,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58eb4567-177b-2310-a6d1-f6db56912eb6",
+        "name": "PARGYLDENINTIE5",
+        "site_name": "As Oy Helsingin Gyldenintie 5-7",
+        "simple_id": 7384,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a52522-bdaa-a2a7-f508-4cfd50ffe8d6",
+        "name": "PARGYLDENINTIE5_MALLI",
+        "site_name": "As Oy Helsingin Gyldenintie 5-7",
+        "simple_id": 6972,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c97094-ae1b-5945-bcbe-27d47456ffb2",
+        "name": "PEABVALAJANRINNE",
+        "site_name": "As Oy Jyväskylän Valajanrinne",
+        "simple_id": 7195,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "236b5540-e0ad-050d-c401-55d71edc5651",
+        "name": "PEAHÄRKÄPORTTI",
+        "site_name": "Kerrostalo As Oy Oulun Härkäportti",
+        "simple_id": 3340,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5912e2dd-eceb-f729-c76f-73cf4fb1e2bb",
+        "name": "PEATEKUNTALONPERUSKORJAUS_MALLIHUONE",
+        "site_name": "Tekun talon peruskorjaus asunnoiksi Oulussa",
+        "simple_id": 7570,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58cba95b-7348-5faf-069b-1701289b5fe5",
+        "name": "PEATUULIKANNEL",
+        "site_name": "As Oy Kuopion Tuulikannel",
+        "simple_id": 7213,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58b9100b-b421-031e-001a-18136fbc6ec8",
+        "name": "PEATUULIKANNEL_KARMITUS",
+        "site_name": "As Oy Kuopion Tuulikannel",
+        "simple_id": 7101,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "302ddad4-fdc5-dd84-f08b-57fe355266ba",
+        "name": "PEAVUOREKSENCROKUS",
+        "site_name": "Vuoreksen Crokus AsOy",
+        "simple_id": 6162,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "972440ea-2f73-6193-ba71-57fe3529683d",
+        "name": "PEAVUOREKSENDAHLIA",
+        "site_name": "Vuoreksen Dahlia AsOy",
+        "simple_id": 6161,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58beb04d-bac9-dd35-6ebb-0dcb8a50a685",
+        "name": "PETITÄKARTANO_VK",
+        "site_name": "As Oy Tapiolan Itäkartano",
+        "simple_id": 7144,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58bd47b7-71bf-7701-bc27-ecdc72fb9e5c",
+        "name": "PETPERTUNPELLONTIE",
+        "site_name": "As Oy Pertunpellontie 6-8",
+        "simple_id": 7132,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "86f3eb40-4388-5521-abbd-57f4b9e9e2df",
+        "name": "PETPERTUNPELLONTIE_IKKUNA",
+        "site_name": "Pertunpellontie 6-8",
+        "simple_id": 6099,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "323d1f3d-435b-5985-1b0e-57f7697e7fe2",
+        "name": "PETPERTUNPELLONTIE_KITTI",
+        "site_name": "Pertunpellontie 6-8",
+        "simple_id": 6130,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "28640e63-aafd-0af0-1b77-57691a31e590",
+        "name": "PETPERTUNPELLONTIE_TALO6",
+        "site_name": "As Oy Pertunpellontie 6-8",
+        "simple_id": 5529,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58bd47db-c1c3-bc9a-c2c8-0265ef2decf4",
+        "name": "PETPERTUNPELLONTIE_TALO8",
+        "site_name": "As Oy Pertunpellontie 6-8",
+        "simple_id": 7133,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "19457ec7-63fc-b89b-dc33-5710a4403b18",
+        "name": "PEUHKURI_KITTAUS_TALO 51_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 4991,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "c8cc2cec-499f-5ac0-d194-5710a4442b18",
+        "name": "PEUHKURI_LISTOITUS_TALO 47_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 4990,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "233f3a4c-a2eb-be79-01b6-570d41427db4",
+        "name": "PEUHKURI_LISTOITUS_TALO 49_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 4970,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "6f8cc445-166e-56d4-44e4-570d404ce0f5",
+        "name": "PEUHKURI_LISTOITUS_TALO 51_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 4969,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "202f41de-b3ea-32a7-a38f-57d667e7aa47",
+        "name": "PEUHKURI_PELLITYS_TALO 1_49_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 5947,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "3cd6333a-b832-bddd-d628-58199e85aa3b",
+        "name": "PEUHKURI_PELLITYS_TALO 2_47_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 6265,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "a8606d07-bcd7-a1f3-635d-5829e3775bd2",
+        "name": "PEUHKURI_PELLITYS_TALO 3_51_TAIKINAMÄKI",
+        "site_name": "As Oy Taikinamäki",
+        "simple_id": 6369,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "37bc21e4-61fd-3ad5-c11e-57fe1b3e73d5",
+        "name": "POHATANVÄYLÄ 4B",
+        "site_name": "Atanväylä 4 B ",
+        "simple_id": 6160,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "dcdde14b-4157-c4a2-79da-5762528682ee",
+        "name": "POHEVA",
+        "site_name": "As Oy Järvenpään Eva",
+        "simple_id": 5487,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588992fe-12a9-d00d-24f1-3544afa43967",
+        "name": "POHEVA_KARMI1",
+        "site_name": "As Oy Järvenpään Eva",
+        "simple_id": 6841,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "863a1091-66b6-0826-f67b-57d12304bdda",
+        "name": "POHEVA_KITTI",
+        "site_name": "As Oy Järvenpään Eva",
+        "simple_id": 5924,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f0e3f414-a916-5c0a-0b23-582dadb2865d",
+        "name": "POHKERKKÄKATU4",
+        "site_name": "Kerrostalo As Oy Jyväskylän Kerkkäkatu 4",
+        "simple_id": 6390,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "587cbb1f-cbf9-3b0e-2f9d-8c9492a55883",
+        "name": "POHKERKKÄKATU4_KARMI",
+        "site_name": "Kerrostalo As Oy Jyväskylän Kerkkäkatu 4",
+        "simple_id": 6753,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "59114e91-30f3-f882-0461-49f5d5203c6b",
+        "name": "POHKIRVESMÄKI",
+        "site_name": "Kirvesmäki AsOy",
+        "simple_id": 7548,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58b95b0c-17a7-48be-9650-11c11d0e925c",
+        "name": "POHKIRVESMÄKI_A",
+        "site_name": "Kirvesmäki AsOy",
+        "simple_id": 7124,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "d25d050a-c5af-342f-d08e-57512ebeac21",
+        "name": "POHMESIMARJA ",
+        "site_name": "Rivitalot As Oy Kangasalan Mesimarja ",
+        "simple_id": 5371,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "6ae62733-5c62-e57b-e322-564da2eb77f4",
+        "name": "POHMESIMARJA_A,D,E",
+        "site_name": "Rivitalot As Oy Kangasalan Mesimarja ",
+        "simple_id": 3993,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "176ea770-eba0-8822-da04-57512e12b8fb",
+        "name": "POHMESIMARJA_B,C,F,G",
+        "site_name": "Rivitalot As Oy Kangasalan Mesimarja ",
+        "simple_id": 5372,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "99ebfc40-dd69-6865-5978-55cdccc4cdc9",
+        "name": "POHTALLINMÄKI_KERROS",
+        "site_name": "As Oy Kangasalan Tallinmäki",
+        "simple_id": 3143,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "2984d2c2-bebc-e19d-413f-576781f8c2b9",
+        "name": "POHVILLAROOSA",
+        "site_name": "As Oy Kauniaisten Villa Roosa",
+        "simple_id": 5499,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584e938e-acea-4e7f-dc5e-ee6c0a9284b5",
+        "name": "POHVILLAROOSA_KARMI",
+        "site_name": "As Oy Kauniaisten Villa Roosa",
+        "simple_id": 6532,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "af06e727-fdbd-f4a6-5941-5767816ca065",
+        "name": "POHVILLAVIOLA",
+        "site_name": "As Oy Kauniaisten Villa Viola",
+        "simple_id": 5500,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584e9224-d30a-a119-c49f-c675bfb98ee2",
+        "name": "POHVILLAVIOLA_KARMI",
+        "site_name": "As Oy Kauniaisten Villa Viola",
+        "simple_id": 6531,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "cd89b518-fbae-b287-33ba-532c31f975af",
+        "name": "POHVUOREKSENEMILIJA",
+        "site_name": "As Oy Vuoreksen Emilija",
+        "simple_id": 273,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "3e55e1d1-2f9c-fec7-22fa-55b098c55f05",
+        "name": "PORRASHUONEET",
+        "site_name": "As Oy Helsingin Bisketti",
+        "simple_id": 2992,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e37d0c-31a7-878a-8773-1b1923337405",
+        "name": "PORSUKSIMIES_KARMI",
+        "site_name": "Kerrostalo As Oy Jyväskylän Suksimies",
+        "simple_id": 7345,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "2cb3e7bb-3596-be83-b4fd-56695b8cf85d",
+        "name": "PORTTI,S0,S+5",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 4157,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "4924c596-b6f6-fef1-9869-57cd63427bc0",
+        "name": "PORÄÄNEKOSKENLUKIO",
+        "site_name": "Äänekosken Lukio",
+        "simple_id": 5895,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "29e37156-955e-aff9-2728-565ed9195e78",
+        "name": "Q3 0TASO,Q1 0TASO,Q4 +15TASO",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 4061,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "8bb85342-091d-77cf-1d51-556c1529fc51",
+        "name": "RAPPU_A",
+        "site_name": "As Oy Helsingin Bisketti",
+        "simple_id": 2751,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "4b0951cc-9936-b1ad-b583-556c15064b1d",
+        "name": "RAPPU_B",
+        "site_name": "As Oy Helsingin Bisketti",
+        "simple_id": 2752,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d9739623-b1be-364f-49b7-5682348486dc",
+        "name": "REPHYVÄNTOIVONKATU4",
+        "site_name": "As Oy Helsingin Hyväntoivonkatu 4",
+        "simple_id": 4281,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f06217a6-a9b1-14fe-145b-568234a80dc2",
+        "name": "REPLÄNSISATAMANKATU36",
+        "site_name": "TA-Asumisoikeus Oy Länsisatamankatu 36",
+        "simple_id": 4283,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "87be4bdd-1e46-b712-6351-572087ec1f70",
+        "name": "REPLÄNSISATAMANKATU36_KARMI",
+        "site_name": "TA-Asumisoikeus Oy Länsisatamankatu 36",
+        "simple_id": 5095,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ad3c3b-9cff-63a2-f3de-93805931700f",
+        "name": "REPTÄHTISARANPOLKU3",
+        "site_name": "TA-Asumisoikeus Oy Tähtisaranpolku 3",
+        "simple_id": 7036,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "396b0715-db80-7dd2-c708-576b844c9b9c",
+        "name": "REPTÄHTISARANPOLKU3_A",
+        "site_name": "TA-Asumisoikeus Oy Tähtisaranpolku 3",
+        "simple_id": 5568,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ad3c5a-4ccd-347b-bdc1-11a35db55082",
+        "name": "REPTÄHTISARANPOLKU3_B",
+        "site_name": "TA-Asumisoikeus Oy Tähtisaranpolku 3",
+        "simple_id": 7037,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6ad3d8a2-18ab-efd9-32b6-565edd583056",
+        "name": "S+10,7,S+15",
+        "site_name": "KOy Sipoon PT-logistiikkakeskus",
+        "simple_id": 4062,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5864cdf8-21fc-64be-6148-77ba5adbaa22",
+        "name": "SALARIALAAKSO",
+        "site_name": "Asunto Oy Kuopion Aria Nivea",
+        "simple_id": 6639,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5864cd59-669a-f247-24ad-ae210ba1fb15",
+        "name": "SALARIALAAKSO/TALO_A",
+        "site_name": "Asunto Oy Kuopion Aria Nivea",
+        "simple_id": 6638,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5864ce97-b2db-63d4-1315-1c4707c849e1",
+        "name": "SALARIALAAKSO/TALO_B",
+        "site_name": "Asunto Oy Kuopion Aria Nivea",
+        "simple_id": 6640,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58621dde-9b0a-eb69-8d5a-f8e67a426696",
+        "name": "SENAATTIARKISTOLAITOS",
+        "site_name": "Arkistolaitoksen Keskusarkisto",
+        "simple_id": 6625,
+        "business_location_id": "8f1aa722-3e74-1dcc-161f-51d3ddd03124"
+    },
+    {
+        "id": "588b304f-87b7-638a-af39-a20d40cfd211",
+        "name": "SIELUHTI_C",
+        "site_name": "Sievi Oy luhti- ja paritalot Tampereelle",
+        "simple_id": 6853,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58edb734-ddd3-d332-125a-1f1c5f6886bb",
+        "name": "SIELUHTI&amp;PARITALOT",
+        "site_name": "Sievi Oy luhti- ja paritalot Tampereelle",
+        "simple_id": 7400,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "588b2f6f-59fe-dc8b-0425-bf01c8f782aa",
+        "name": "SIELUHTI&amp;PARITALOT_KARMIT ",
+        "site_name": "Sievi Oy luhti- ja paritalot Tampereelle",
+        "simple_id": 6851,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58b9551b-7ab6-2a7a-1036-a6e69f4bc699",
+        "name": "SIKHEINO",
+        "site_name": "Sikla OKT Heino Heidi ja Jani",
+        "simple_id": 7121,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58a16a20-7ccd-a23c-8b8f-9e0440c1b8bf",
+        "name": "SKA_TORILINNA 1_lista",
+        "site_name": "Lappeenrannan Torikulma ",
+        "simple_id": 6952,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "20ff321a-2865-3931-610c-57bc092a24fb",
+        "name": "SKAALALEMETUHOVI2_ASENNUS MÄÄRÄT",
+        "site_name": "Espoon Etuhovi 2",
+        "simple_id": 5797,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "7ca36121-acdd-aa82-fa05-581b237942ae",
+        "name": "SKAALALEMHOPEATÄPLÄ_IKKUNA",
+        "site_name": "As Oy Vantaan Hopeatäplä",
+        "simple_id": 6280,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9bfa217b-bf1c-71f7-941d-57adbaeafa99",
+        "name": "SKAALALEMMERIPIHKA_ASENNUS MÄÄRÄT",
+        "site_name": "As Oy Helsingin Meripihka",
+        "simple_id": 5750,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3240b559-4ee8-ed55-7a42-57df6b950d68",
+        "name": "SKAALALOISKEKUJA _IKKUNAT",
+        "site_name": "As Oy Vantaan Loiskekuja",
+        "simple_id": 5995,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "36115431-967d-b280-88b3-5768ee28c263",
+        "name": "SKAALALÄNSISATAMANKATU_ASENNUS MÄÄRÄT",
+        "site_name": "TA-Asumisoikeus Oy Länsisatamankatu 36",
+        "simple_id": 5524,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "2cb28bd0-a61a-2bb0-37d8-57bc2d8a8fe0",
+        "name": "SKAALALÄNSISATAMANKATU36_IKKUNA",
+        "site_name": "TA-Asumisoikeus Oy Länsisatamankatu 36",
+        "simple_id": 5808,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "256331c8-a5b2-eea5-17ba-576d39d28d63",
+        "name": "SKAALANCCBITTIUM_ASENNUS MÄÄRÄT",
+        "site_name": "Bittium pääkonttori",
+        "simple_id": 5576,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5845528c-36fc-8697-2324-cdca9e9c7810",
+        "name": "SKAALAPEAKUNINGAS_IKKUNA",
+        "site_name": "Kruunuvuoren Kuningas",
+        "simple_id": 6498,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58776aab-6714-7ae8-693a-54a19e77a8f5",
+        "name": "SKABYSA",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6728,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58776ac6-357f-3e80-255a-6366f9328c41",
+        "name": "SKABYSA_A",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6729,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9ee8b504-b281-4798-1cbe-58133f7ddeeb",
+        "name": "SKABYSA_B",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6243,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "8408a7f4-7908-9523-94f7-58133e10cfb9",
+        "name": "SKABYSA_KARMI",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6242,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c7975b6d-edae-b85d-3a2e-581c4d468438",
+        "name": "SKABYYSAJASANDIS_IKKUNAT",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6287,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588b2b80-70cf-dbdf-db27-1bdc23bc234a",
+        "name": "SKACARIBIA",
+        "site_name": "Holiday Club Villas Caribia",
+        "simple_id": 6849,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "369fa10f-55d5-d664-56d8-568e1145ea7f",
+        "name": "SKAFIILINKI",
+        "site_name": "As Oy Espoon Fiilinki ",
+        "simple_id": 4431,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "648cc8d3-1b33-034e-b490-561b5405c964",
+        "name": "SKAHOASJÄTKÄSAARI",
+        "site_name": "HOAS Jätkäsaari",
+        "simple_id": 3714,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a8e766ac-a735-27a0-88a0-57df8693e3f4",
+        "name": "SKAHUSBAHAMAKATU_IKKUNA",
+        "site_name": "HUS Bahamakatu",
+        "simple_id": 6001,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58859aeb-ab08-6140-cc9b-6c70851bf034",
+        "name": "SKAHUSBAHAMAKATU_KITTI",
+        "site_name": "HUS Bahamakatu",
+        "simple_id": 6805,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c5729080-a15f-6e13-7e12-581ad55ed312",
+        "name": "SKAHÄRMÄLÄNRANNANVINKA",
+        "site_name": "AS Oy Härmälänrannan Vinka",
+        "simple_id": 6274,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "b3402627-2428-8eec-ca3f-576793c4d9e1",
+        "name": "SKAHÖYHTYÄNTUOMI",
+        "site_name": "As Oy Höyhtyän Tuomi",
+        "simple_id": 5514,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "9e4bc1f7-90e3-5832-2a58-57565878425a",
+        "name": "SKAJÄRVIHELMI",
+        "site_name": "As Oy Kuopion Järvihelmi",
+        "simple_id": 5395,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "584fbb67-dd43-0033-27a3-aad3a73ee538",
+        "name": "SKALENTÄJÄ",
+        "site_name": "HÄRMÄLÄNRANNAN LENTÄJÄ ",
+        "simple_id": 6536,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "62d82c35-b53e-218f-2b6f-564db1fbf345",
+        "name": "SKALENTÄJÄ_A",
+        "site_name": "HÄRMÄLÄNRANNAN LENTÄJÄ ",
+        "simple_id": 4003,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "584fbba5-a416-8e35-93b7-5c07c3df2794",
+        "name": "SKALENTÄJÄ_B",
+        "site_name": "HÄRMÄLÄNRANNAN LENTÄJÄ ",
+        "simple_id": 6537,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "59199cde-244a-71eb-e46d-2e89d085f9fe",
+        "name": "SKAMALSKINTAMMI_MALLI",
+        "site_name": "As Oy Malskin Tammi",
+        "simple_id": 7588,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "5911aa6b-431a-0d5a-1fa7-f21ed2932348",
+        "name": "SKAMOODI",
+        "site_name": "As Oy Espoon Moodi",
+        "simple_id": 7558,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5911aab6-9708-370a-24e1-65d547b3747a",
+        "name": "SKAMOODI_MALLI",
+        "site_name": "As Oy Espoon Moodi",
+        "simple_id": 7560,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "585bd8c3-e043-16ef-bacd-709d3d9deac3",
+        "name": "SKANURMIJÄRVENMONITOIMITALO",
+        "site_name": "Nurmijärven Monitoimitalo",
+        "simple_id": 6612,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "590adeab-c29a-5f09-4c7d-b34e61b738ce",
+        "name": "SKAPOHJOLASAIRAALA_IKKUNA",
+        "site_name": "KOy Turun Joukahaisenkatu 9",
+        "simple_id": 7507,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "588b2d00-37a3-081b-be8d-ef7d2225c255",
+        "name": "SKAPOHJOLASAIRAALA_KRS2",
+        "site_name": "KOy Turun Joukahaisenkatu 9",
+        "simple_id": 6850,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "590adee8-9db3-5fc5-4592-fd7744dd9b7e",
+        "name": "SKAPOHJOLASAIRAALA_KRS4",
+        "site_name": "KOy Turun Joukahaisenkatu 9",
+        "simple_id": 7509,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "590adf4c-d3d4-395e-2a04-f5ca6e15afe3",
+        "name": "SKAPOHJOLASAIRAALA_KRS5",
+        "site_name": "KOy Turun Joukahaisenkatu 9",
+        "simple_id": 7510,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "590adf65-e519-5d0c-b3a5-471a82445f82",
+        "name": "SKAPOHJOLASAIRAALA_KRS6",
+        "site_name": "KOy Turun Joukahaisenkatu 9",
+        "simple_id": 7511,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "72a17175-19ca-06d5-54e5-57d9420f083d",
+        "name": "SKAPONTUKSEN_KOULU_LISTOITUS",
+        "site_name": "Pontuksen Päiväkoti ja Koulu",
+        "simple_id": 5977,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "85afe155-55ef-8c61-b8aa-57d9482b7f07",
+        "name": "SKAPURSIMIES_LISTOITUS",
+        "site_name": "As Oy Pursimies",
+        "simple_id": 5979,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "9edb6f6d-eefe-622f-9c77-581068f35970",
+        "name": "SKARIOJAHEKA_IKKUNA",
+        "site_name": "As Oy Helsingin Rio ja Heka",
+        "simple_id": 6221,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589ab038-9943-b318-23eb-a979a87df9cf",
+        "name": "SKASANDIS",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6915,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "587377f0-adf8-71a5-0df0-b7211169958c",
+        "name": "SKASANDIS_A",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6688,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589ab052-ff87-0baf-1c0b-5bfd0c8d0c0b",
+        "name": "SKASANDIS_B",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6916,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58737817-155b-6a6b-ae38-8f70afb4d1a7",
+        "name": "SKASANDIS_KARMI",
+        "site_name": "ATT Bysa ja Sandis",
+        "simple_id": 6689,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c7be81-8d0f-7cec-7564-b86c5fc98f0d",
+        "name": "SKATELLERVO",
+        "site_name": "As Oy Vantaan Tellervo",
+        "simple_id": 7182,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c7be9e-c63b-19e4-1528-f08757f068cb",
+        "name": "SKATELLERVO_B",
+        "site_name": "As Oy Vantaan Tellervo",
+        "simple_id": 7183,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3cf00ec0-99f8-e963-c346-568bc59fa260",
+        "name": "SKATELLERVO_C",
+        "site_name": "As Oy Vantaan Tellervo",
+        "simple_id": 4421,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "45bcf3e8-e71f-0941-baa8-568e0eca7dc0",
+        "name": "SKATUPALANKULMA",
+        "site_name": "As Oy Järvenpään Tupalankulma ",
+        "simple_id": 4428,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a51e6f8d-110f-a132-af3d-580dc8f737c3",
+        "name": "SKATUPALANKULMA",
+        "site_name": "As Oy Järvenpään Tupalankulma ",
+        "simple_id": 6207,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "99d24ca2-53ae-91a4-c579-580dc82a47fb",
+        "name": "SKATUPALANKULMA_MALLI",
+        "site_name": "As Oy Järvenpään Tupalankulma ",
+        "simple_id": 6208,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58db7976-24e0-9971-8530-4f9aa40a9414",
+        "name": "SKAVUOKKINIEMENKATU",
+        "site_name": "HEKA Vuokkiniemenkatu",
+        "simple_id": 7290,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f1af2d3c-eb18-6e00-1646-56ab50c410bf",
+        "name": "SKAVUOKKINIEMENKATU_A",
+        "site_name": "HEKA Vuokkiniemenkatu",
+        "simple_id": 4616,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a8538e17-dda5-f312-6212-58186691f3ca",
+        "name": "SRVCELICA",
+        "site_name": "As Oy Vantaan Tikkurilan Celica ",
+        "simple_id": 6259,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ab7da6cb-11ca-640b-25bd-5683b694e92b",
+        "name": "SRVCELICA_A",
+        "site_name": "As Oy Vantaan Tikkurilan Celica ",
+        "simple_id": 4319,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "4ee158e1-8ced-e9d8-756d-581866156ecf",
+        "name": "SRVCELICA_B",
+        "site_name": "As Oy Vantaan Tikkurilan Celica ",
+        "simple_id": 6260,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c9375611-f659-0e59-7778-5818677eb36f",
+        "name": "SRVCELICA_C",
+        "site_name": "As Oy Vantaan Tikkurilan Celica ",
+        "simple_id": 6261,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588071d9-f03e-4a41-f1bd-30bea0245f2c",
+        "name": "SRVFÖRSTI",
+        "site_name": "As Oy Helsingin Försti",
+        "simple_id": 6783,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "39570d3b-f953-4f6e-d5ea-55e7f2b0465b",
+        "name": "SRVFÖRSTI_A",
+        "site_name": "As Oy Helsingin Försti",
+        "simple_id": 3524,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588071f4-8c50-33c7-c4bf-fe2c6bc000a7",
+        "name": "SRVFÖRSTI_B",
+        "site_name": "As Oy Helsingin Försti",
+        "simple_id": 6784,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "98b3f0d7-50b3-8ebb-1d87-576b7a3ef3a6",
+        "name": "SRVFÖRSTI_KARMI",
+        "site_name": "As Oy Helsingin Försti",
+        "simple_id": 5565,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "7dd62032-fbb0-8ca0-29ae-576b7cfec865",
+        "name": "SRVFÖRSTI_KITTI",
+        "site_name": "As Oy Helsingin Försti",
+        "simple_id": 5566,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "8e0fc88b-b578-fce6-509c-55e7e88bb4bf",
+        "name": "SRVHELSINGINLASTENSAIRAALA",
+        "site_name": "Helsingin Lastensairaala",
+        "simple_id": 3498,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d379cd-c7e7-1a5c-de63-ac6fc3691d1b",
+        "name": "SRVHELSINGINLASTENSAIRAALA_KARMI",
+        "site_name": "Helsingin Lastensairaala",
+        "simple_id": 7248,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5878c386-8810-6123-b156-8fe41ba9cccb",
+        "name": "SRVHELSINGINLASTENSAIRAALA_KARMI1",
+        "site_name": "Helsingin Lastensairaala",
+        "simple_id": 6733,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d37a6c-db02-4402-e2d8-bdb80059b15f",
+        "name": "SRVHELSINGINLASTENSAIRAALA_KARMI2",
+        "site_name": "Helsingin Lastensairaala",
+        "simple_id": 7250,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5878c3bf-c51d-1731-4fc8-f5262b7bdda4",
+        "name": "SRVHELSINGINLASTENSAIRAALA_KITTI",
+        "site_name": "Helsingin Lastensairaala",
+        "simple_id": 6734,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c635e381-9650-2979-4ddf-5683b9f7eb7e",
+        "name": "SRVHIETASAARENKUJA3A",
+        "site_name": "As Oy Helsingin Hietasaarenkuja 3 A",
+        "simple_id": 4322,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589061c4-e09c-bdea-6fe2-62b15cc2daac",
+        "name": "SRVHIETASAARENKUJA3A_KARMI",
+        "site_name": "As Oy Helsingin Hietasaarenkuja 3 A",
+        "simple_id": 6872,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59100cfe-a953-696d-206c-3ba2d827bf4c",
+        "name": "SRVHKSCANRAUMA",
+        "site_name": "HK Scan Kariniemen Tuotantolaitos",
+        "simple_id": 7541,
+        "business_location_id": "8ef43818-4bf2-aacd-5be2-51d3dd7ac07c"
+    },
+    {
+        "id": "587def51-337e-f54b-5718-fa42696cf2f5",
+        "name": "SRVJOENSUUNPOLIISIJAOIKEUSTALO",
+        "site_name": "A11099 Joensuun oikeus- ja poliisitalo",
+        "simple_id": 6769,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "586de069-3cc2-099f-eadb-cb5720d92af1",
+        "name": "SRVJOENSUUNPOLIISIJAOIKEUSTALO/K1",
+        "site_name": "A11099 Joensuun oikeus- ja poliisitalo",
+        "simple_id": 6668,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "587def71-ea20-e66e-d2b2-1652a0bf7118",
+        "name": "SRVJOENSUUNPOLIISIJAOIKEUSTALO/K2",
+        "site_name": "A11099 Joensuun oikeus- ja poliisitalo",
+        "simple_id": 6770,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "587def93-bc0a-8782-7d34-6cba93df1e06",
+        "name": "SRVJOENSUUNPOLIISIJAOIKEUSTALO/K3",
+        "site_name": "A11099 Joensuun oikeus- ja poliisitalo",
+        "simple_id": 6771,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "583ff662-7bda-47f7-20b7-e86e08cd30e3",
+        "name": "SRVKUUNKIERTYMÄ",
+        "site_name": "As Oy Espoon Kuunkiertymä",
+        "simple_id": 6472,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "583ff6e4-c082-d27b-5283-a3bb0c7e965a",
+        "name": "SRVKUUNKIERTYMÄ_KARMI",
+        "site_name": "As Oy Espoon Kuunkiertymä",
+        "simple_id": 6473,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58dcc9c9-5e70-2a45-fcca-b56f885f2549",
+        "name": "SRVKVARTTO_LISÄTYÖT",
+        "site_name": "As Oy Helsingin Kvartto",
+        "simple_id": 7301,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "9236d4c1-1a5b-a609-7345-5811e7a6c17e",
+        "name": "SRVMANTTELI",
+        "site_name": "As Oy Helsingin Mantteli",
+        "simple_id": 6236,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "b48d795a-9480-42c5-0987-5811e877f3c3",
+        "name": "SRVMANTTELI_A",
+        "site_name": "As Oy Helsingin Mantteli",
+        "simple_id": 6237,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "bafb308f-4add-0bf1-6879-55e7f7e48af3",
+        "name": "SRVMANTTELI_B",
+        "site_name": "As Oy Helsingin Mantteli",
+        "simple_id": 3529,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d85e1a32-2efd-e4ae-3d92-5720a7b97e28",
+        "name": "SRVMANTTELI_KARMI",
+        "site_name": "As Oy Helsingin Mantteli",
+        "simple_id": 5099,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c935a198-4cd1-574e-3d6c-5720a78a3314",
+        "name": "SRVMANTTELI_KITTI",
+        "site_name": "As Oy Helsingin Mantteli",
+        "simple_id": 5100,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "b33e3190-1a8b-f28b-1995-5683c044a624",
+        "name": "SRVNIITTYHEINÄ_A",
+        "site_name": "Kerrostalo As Oy Espoon Niittyheinä 2 AB",
+        "simple_id": 4329,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588f235b-25c0-479f-9ea6-aca54a0022ff",
+        "name": "SRVNIITTYHEINÄ_B",
+        "site_name": "Kerrostalo As Oy Espoon Niittyheinä 2 AB",
+        "simple_id": 6856,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588f233a-88ee-b04d-7d8d-7773707cb6fe",
+        "name": "SRVNIITTYHEINÄ2A&amp;2B",
+        "site_name": "Kerrostalo As Oy Espoon Niittyheinä 2 AB",
+        "simple_id": 6855,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5fc0e45e-caa0-3c34-c1de-55e7e92395de",
+        "name": "SRVNIITTYHUIPPU",
+        "site_name": "As Oy Espoon Niittyhuippu",
+        "simple_id": 3503,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "84b4186e-e246-50a0-057c-574583365e38",
+        "name": "SRVNIITTYHUIPPU_KARMI",
+        "site_name": "As Oy Espoon Niittyhuippu",
+        "simple_id": 5323,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ba2bcca6-83c5-203e-dfc3-57458377065d",
+        "name": "SRVNIITTYHUIPPU_KITTI",
+        "site_name": "As Oy Espoon Niittyhuippu",
+        "simple_id": 5324,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3bf551a8-9e47-78fa-4e35-57d92b834bac",
+        "name": "SRVNIITTYHUIPPU_OVIKITTI",
+        "site_name": "As Oy Espoon Niittyhuippu",
+        "simple_id": 5973,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5e95bbe5-7185-6aec-04f2-57458150e55c",
+        "name": "SRVNIITTYTORI_KITTI",
+        "site_name": "As Oy Espoon Niittytori",
+        "simple_id": 5322,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5878c09b-2155-dade-018a-677fce9b3fc3",
+        "name": "SRVPEKAANI",
+        "site_name": "Pekaani As Oy",
+        "simple_id": 6732,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "583bf447-de44-c92a-b7bc-73b9d4925c4b",
+        "name": "SRVRUUKINPATRUUNA ",
+        "site_name": " As oy TRE  Ruukinpatruuna ",
+        "simple_id": 6445,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "21f776bf-2349-9860-a4bd-55d5b7dae03d",
+        "name": "SRVRUUKINPATRUUNA_A",
+        "site_name": " As oy TRE  Ruukinpatruuna ",
+        "simple_id": 3291,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "583bf496-b093-cdcf-a510-d54571fc0a38",
+        "name": "SRVRUUKINPATRUUNA_B",
+        "site_name": " As oy TRE  Ruukinpatruuna ",
+        "simple_id": 6446,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "12d796c5-5ff9-5741-51fd-5683b875b673",
+        "name": "SRVSANDRA ",
+        "site_name": "As Oy Helsingin Sandra",
+        "simple_id": 4321,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5f6c0a9b-1f78-4ddd-3d5a-57f774ddcfa5",
+        "name": "SRVSANDRA_KITTI",
+        "site_name": "Kerrostalo As Oy Helsingin Sandra",
+        "simple_id": 6131,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3f4e996b-2d1e-38b2-355e-5633243f3dd1",
+        "name": "SRVSATAMARANNANMASTO",
+        "site_name": "As Oy Satamarannan Masto",
+        "simple_id": 3812,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "585cd686-c79f-0766-6d7f-0d968a063385",
+        "name": "SRVSATAMARANNANMASTO_IKKUNATUNTITYÖ",
+        "site_name": "Satamarannan Masto",
+        "simple_id": 6615,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "5c92a34c-7f9a-af8c-ae22-55d71fb228de",
+        "name": "SRVSATAMARANNANMASTO_KARMI",
+        "site_name": "Kerrostalo As Oy Oulun Satamarannan Masto",
+        "simple_id": 3341,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "b43419f6-8d0a-f33c-9f97-57ee5866fae2",
+        "name": "SRVSATAMARANNANMASTO_KITTI",
+        "site_name": "As Oy Satamarannan Masto",
+        "simple_id": 6078,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "c929716c-664a-48cf-c93e-563867900117",
+        "name": "SRVSULKAKUJA",
+        "site_name": "Sulkakuja 10 Palvelutalo",
+        "simple_id": 3832,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "58aea197-b0ce-0b90-1213-18d7d5a7fc02",
+        "name": "SRVVALKEANVIRITTÄJÄ_KOILLINEN",
+        "site_name": "As Oy Espoon Valkeanvirittäjä",
+        "simple_id": 7060,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c404d4eb-65c1-019d-4ead-5804592c74db",
+        "name": "SRVVERSO",
+        "site_name": "As Oy Vantaan Tikkurilan Verso",
+        "simple_id": 6171,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ccc60a4e-939a-a0ce-c19e-58045a973f2b",
+        "name": "SRVVERSO_RAPPU_A",
+        "site_name": "As Oy Vantaan Tikkurilan Verso",
+        "simple_id": 6172,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "48559a90-d5f7-34bd-7599-5683b5b2db54",
+        "name": "SRVVERSO_RAPPU_B",
+        "site_name": "As Oy Vantaan Tikkurilan Verso",
+        "simple_id": 4317,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58edbd56-7ea6-dcbd-6fc1-b6ac10bf3bff",
+        "name": "SRVVISSELI_KITTI",
+        "site_name": "Rivitalo As Oy Helsingin Visseli",
+        "simple_id": 7403,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d90ded16-791c-a981-3b27-573bf20bb3f6",
+        "name": "SRVVÄLIMERENKATU8_IKKUNA",
+        "site_name": "Kerrostalo VVO Asunnot Oy/Välimerenkatu 8",
+        "simple_id": 5254,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e46420d6-eb8b-ca82-612e-576b70e21960",
+        "name": "SRVVÄLIMERENKATU8_KITTI",
+        "site_name": "VVO Asunnot Oy/Välimerenkatu 8",
+        "simple_id": 5562,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e2a05c-40f7-2d3b-80b0-e8d8ed10e286",
+        "name": "SRVYLIOPISTO_karmi",
+        "site_name": "Lpr Yliopisto Verso",
+        "simple_id": 7326,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "59132574-3fb2-f822-f082-57f7dd0e13c5",
+        "name": "SRVYLIOPISTO_kitti",
+        "site_name": "Lpr Yliopisto Verso",
+        "simple_id": 7572,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58e2a021-bae3-2340-7e6f-b8022e3afbae",
+        "name": "SRVYLIOPISTO_lista",
+        "site_name": "Lpr Yliopisto Verso",
+        "simple_id": 7325,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "8b34658e-d011-6862-f544-5809f090773e",
+        "name": "SSR_EP_KOUVOLAN_ikkuna_ATTENDOKANKARO2_IKKUNA",
+        "site_name": "Attendo Kankaro 2",
+        "simple_id": 6202,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58902eae-af65-7ef0-04d9-5dd14cfac6f8",
+        "name": "SSR_LPR_ARMAADA_ikkuna",
+        "site_name": "Kiinteistö Oy Lpr Armaada",
+        "simple_id": 6867,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "59101f78-1c63-0742-78f2-5e399dd32257",
+        "name": "SSR_LPR_ARMAADA_kitti",
+        "site_name": "Kiinteistö Oy Lpr Armaada",
+        "simple_id": 7543,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "584fa702-4c34-36a5-c751-25a22f73d882",
+        "name": "SSRALEKSANTERINKATU_A",
+        "site_name": "As Oy Lahden Aleksanterinkatu 5",
+        "simple_id": 6534,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "584e6653-cffc-ff53-c47b-a137305782d2",
+        "name": "SSRALEKSANTERINKATU5",
+        "site_name": "As Oy Lahden Aleksanterinkatu 5",
+        "simple_id": 6527,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "583ec094-d070-32cf-94c4-1929f608707d",
+        "name": "SSRALEKSANTERINKATU5_MALLI",
+        "site_name": "As Oy Lahden Aleksanterinkatu 5",
+        "simple_id": 6465,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "58592252-41a6-46a1-ae3a-cd54fe0a23c7",
+        "name": "SSRHAAPSALUNKUJA4_IKKUNAT",
+        "site_name": "As Oy Haapsalunkuja 4",
+        "simple_id": 6584,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58592353-8e06-f2f7-137a-b8e425a8d76a",
+        "name": "SSRHAAPSALUNKUJA4_KITTAUS",
+        "site_name": "As Oy Haapsalunkuja 4",
+        "simple_id": 6585,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ee15e9-4f64-ead7-19b3-d655a448e088",
+        "name": "SSRPIELAKOTI",
+        "site_name": "Pielakoti",
+        "simple_id": 7412,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58738a44-280a-6ee2-1094-c8296f7246d7",
+        "name": "TARKIVITASKUNPESÄ_VUOSIKORJAUS_2017",
+        "site_name": "As Oy Oulun Kivitaskunpesä",
+        "simple_id": 6692,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "a588e22a-1dde-dc86-006e-530fa6d94a5d",
+        "name": "TEST1",
+        "site_name": null,
+        "simple_id": 144,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ad2cc46b-fb3d-286f-53c4-537e05adba15",
+        "name": "TESTIPROJEKTI_GW_FD322.",
+        "site_name": null,
+        "simple_id": 683,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "58d4b0de-4bee-028a-762d-af6b2cce2e5a",
+        "name": "TUOSIPULIKATU",
+        "site_name": "Sipulin palvelukoti",
+        "simple_id": 7261,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "5572330b-acb2-df8e-6e0b-5721e8cec902",
+        "name": "UMRHEKAPUKINMÄKI_IKKUNAT",
+        "site_name": "Heka-Pukinmäki",
+        "simple_id": 5115,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "42ef7df7-5cf4-cf11-7b38-575674484759",
+        "name": "UMRHEKAPUKINMÄKI_KITIT",
+        "site_name": "Heka-Pukinmäki",
+        "simple_id": 5397,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c664bc52-e77c-a218-03e6-5721e8cefd06",
+        "name": "UMRHEKAPUKINMÄKI_KITIT",
+        "site_name": "Heka-Pukinmäki",
+        "simple_id": 5113,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "ae40c8a9-f1b8-4c79-4735-5770d268173f",
+        "name": "UMRKUUSIKKOTIE",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5580,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3f5b999e-e020-28e5-4ff5-57a2cb148ce8",
+        "name": "UMRKUUSIKKOTIE_F",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5681,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "eb1041fe-cd39-c8bc-c3d2-57a2cbdc1e34",
+        "name": "UMRKUUSIKKOTIE_G",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5682,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "61b0a64d-28c7-5fa7-7361-57a2cbfc0b39",
+        "name": "UMRKUUSIKKOTIE_H",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5683,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "bd718bbf-832d-fb71-d8ed-57a2cce217e3",
+        "name": "UMRKUUSIKKOTIE_I",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5684,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "881cdf4a-4153-9c2a-cd53-5770d2b3f23e",
+        "name": "UMRKUUSIKKOTIE_K",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5581,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5eb77f46-c5de-7cd3-0707-57568ef14f76",
+        "name": "UMRKUUSIKKOTIE_MALLI",
+        "site_name": "As Oy Kuusikkotie 4",
+        "simple_id": 5401,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59479860-c8fb-c721-289c-b454c8b0078d",
+        "name": "URKESÄLOMA",
+        "site_name": "As Oy Kesäloma",
+        "simple_id": 7715,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59479eb2-7417-1379-256c-aa1adbb72295",
+        "name": "URKESÄLOMA_A",
+        "site_name": "As Oy Kesäloma",
+        "simple_id": 7716,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59479edd-a080-424d-2082-7be0cb771ea1",
+        "name": "URKESÄLOMA_B",
+        "site_name": "As Oy Kesäloma",
+        "simple_id": 7717,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "84d0c998-0699-ba06-5b24-537367fd1ade",
+        "name": "VARASTOTILAUKSET VAASA",
+        "site_name": null,
+        "simple_id": 652,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "584a43df-b627-60c8-bed6-c95262443c9f",
+        "name": "VARHEKAPITÄJÄNMÄKILIUSKETIE9_IKKUNA",
+        "site_name": "Heka Pitäjänmäki",
+        "simple_id": 6517,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e233cc-5664-7582-4e83-3cae02f63c56",
+        "name": "VARSUOPURSUNPUISTO_IKKUNA",
+        "site_name": "As Oy Suopursunpuisto",
+        "simple_id": 7324,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5912b981-b8e3-a1fe-a771-4f08e2c6cf4a",
+        "name": "VARSUOPURSUNPUISTO_KITTI",
+        "site_name": "As Oy Suopursunpuisto",
+        "simple_id": 7562,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "eca6e94f-8cb8-f7d3-8b03-5636fdd7251b",
+        "name": "VARVANTAANVASKIHEIKKI",
+        "site_name": "As Oy Vantaan Vaskiheikki",
+        "simple_id": 3815,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "d71af9fd-2fd5-93ac-008c-568289cdf8c1",
+        "name": "VARVIRTARANTA_A",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 4293,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e5fe72-cf58-a00d-b027-4d3fb97e2b4e",
+        "name": "VARVIRTARANTA_B",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 7360,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e5feab-cf54-97ab-d641-c421e27cd583",
+        "name": "VARVIRTARANTA_C",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 7361,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e60254-7b6c-ef09-a103-1e490bc341ae",
+        "name": "VARVIRTARANTA_D",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 7362,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e60295-6470-6a23-9b25-f2b0142ca7b7",
+        "name": "VARVIRTARANTA_E",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 7363,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e5fe42-a925-0035-c634-2c3bc157652d",
+        "name": "VARVIRTARANTAHASO/HEKA",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 7359,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e4c03ebf-b412-32a9-658a-5756bbf6db7b",
+        "name": "VARVIRTARANTAHASO/HEKA_IKKUNA",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 5404,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "971c11e2-a483-ab96-27e1-5774e59e8e9c",
+        "name": "VARVIRTARANTAHASO/HEKA_KITTI",
+        "site_name": "HASO/HEKA Virtaranta",
+        "simple_id": 5604,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58fed503-99cf-57fa-9c30-3eadc569c2a1",
+        "name": "VIL2KASARMINPERUSKORJAUS",
+        "site_name": "Porin Prikaati Kasarmi 2 peruskorjaus",
+        "simple_id": 7461,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "59031544-642a-f7e3-1344-b820e4e4827a",
+        "name": "VIL2KASARMINPERUSKORJAUS_KARMI",
+        "site_name": "Porin Prikaati Kasarmi 2 peruskorjaus",
+        "simple_id": 7491,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "74df0224-b036-de01-86f0-57430499dd7b",
+        "name": "VOMLEINELÄNTIE_KITTI",
+        "site_name": "Asokodit Leineläntie 13",
+        "simple_id": 5307,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "592ea742-80e6-1c62-179f-005c15a2a2f5",
+        "name": "VOMRAMSINNIEMENTIE14_VK",
+        "site_name": "TA-Asumisoikeus Ramsinniementie 14",
+        "simple_id": 7693,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "f3e1ad39-8f43-6563-6a52-5583c97d6abf",
+        "name": "VUOSIKORJAUS_JKL",
+        "site_name": null,
+        "simple_id": 2863,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "5891b050-c8c3-163a-76ef-4f5b8ed68240",
+        "name": "VUOSIKORJAUS_JKL_KARMI",
+        "site_name": null,
+        "simple_id": 6892,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "78e09a82-4701-7df5-9f5e-530f38ca9d19",
+        "name": "YAP LISTOITUSTESTI",
+        "site_name": "YAP testi",
+        "simple_id": 142,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "6b7a8b6a-bbf8-177e-4ff6-5375e92e8964",
+        "name": "YAP LISTOITUSTESTI2",
+        "site_name": null,
+        "simple_id": 664,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589adf79-1854-f27d-a0d5-b6070367331f",
+        "name": "YITAKAATTI",
+        "site_name": "As Oy Vantaan Akaatti",
+        "simple_id": 6919,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "a57f6908-7a03-8551-2136-55d56af9e92a",
+        "name": "YITAKAATTI_ASUNNOT",
+        "site_name": "As Oy Vantaan Akaatti",
+        "simple_id": 3270,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d4e0a3-36d7-f304-1200-f3aca431076b",
+        "name": "YITALEKSANDER_VK",
+        "site_name": "As Oy Helsingin Aleksander",
+        "simple_id": 7269,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "dc5d5706-4eef-ec8d-fe65-5812e22a3d66",
+        "name": "YITAMETISTI_IKKUNA",
+        "site_name": "Koy Tampereen Ametisti",
+        "simple_id": 6240,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "588086a4-78b0-5464-03d2-1dcffa40e5a5",
+        "name": "YITAURINGONNOUSU",
+        "site_name": "As Oy Järvenpään Auringonnousu ja Palloleikki",
+        "simple_id": 6786,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58808750-84cb-26d1-a919-ec5bbdfdc03f",
+        "name": "YITAURINGONNOUSU_BA",
+        "site_name": "As Oy Järvenpään Auringonnousu ja Palloleikki",
+        "simple_id": 6788,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "588086fe-98aa-2c5c-cfe5-3457d761b420",
+        "name": "YITAURINGONNOUSU_EDC",
+        "site_name": "As Oy Järvenpään Auringonnousu ja Palloleikki",
+        "simple_id": 6787,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "31595e4c-5594-23e9-9cb0-5774fa284b86",
+        "name": "YITAURINGONNOUSU_HGF",
+        "site_name": "As Oy Järvenpään Auringonnousu ja Palloleikki",
+        "simple_id": 5609,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58b67ca0-f3de-94b9-fd9c-9ca49efadc57",
+        "name": "YITHENNALANKATU_KARMI",
+        "site_name": "Hanke A 12979",
+        "simple_id": 7086,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "58c62abb-cb5e-be84-a6c4-69b0d113ce0e",
+        "name": "YITHENNALANKATU_KITTI",
+        "site_name": "Hanke A 12979",
+        "simple_id": 7177,
+        "business_location_id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c"
+    },
+    {
+        "id": "58a6e16b-2555-00f1-effd-4b8eadfe463a",
+        "name": "YITHIETA",
+        "site_name": "As Oy Vantaan Hieta",
+        "simple_id": 7000,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a6e1f3-40da-70a2-f93d-edf4ea5077ee",
+        "name": "YITHIETA_A",
+        "site_name": "As Oy Vantaan Hieta",
+        "simple_id": 7001,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5864933e-c593-f4ed-5967-1e7e811ab137",
+        "name": "YITHIETA_B",
+        "site_name": "As Oy Vantaan Hieta",
+        "simple_id": 6632,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ae9f0d-32ba-98b7-409b-4d046439cd2f",
+        "name": "YITKALEVANOPAALI",
+        "site_name": "Kalevan Opaali KOy",
+        "simple_id": 7057,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58749d80-e5b3-7af4-2c52-7f37dddbfada",
+        "name": "YITKALEVANOPAALI_1",
+        "site_name": "Kalevan Opaali KOy",
+        "simple_id": 6693,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58e60d4d-8e79-8229-f42d-49acfce1616f",
+        "name": "YITKIEPPI_KARMI",
+        "site_name": "As Oy Espoon Kieppi",
+        "simple_id": 7376,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "59003386-8ab2-66d5-d461-d4650bbd70a4",
+        "name": "YITKIEPPI_KITTI",
+        "site_name": "As Oy Espoon Kieppi",
+        "simple_id": 7483,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "92dde532-e96c-07c8-4071-57ce50422ee6",
+        "name": "YITKOSKIKARA",
+        "site_name": "As Oy Helsingin Koskikara",
+        "simple_id": 5899,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "733fe19c-4803-6a7b-96f5-5747e42f5c36",
+        "name": "YITKOSKIKARA_A",
+        "site_name": "As Oy Helsingin Koskikara",
+        "simple_id": 5336,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "7829395e-10af-92ec-4fd3-57ce50ad7585",
+        "name": "YITKOSKIKARA_B",
+        "site_name": "As Oy Helsingin Koskikara",
+        "simple_id": 5900,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e2f08f89-08d4-fc19-2d96-57ce50e75aaf",
+        "name": "YITKOSKIKARA_C",
+        "site_name": "As Oy Helsingin Koskikara",
+        "simple_id": 5901,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "c3ddc70b-1dfa-2cf6-eeb2-5747e56ae30a",
+        "name": "YITKOSKIKARA_KARMI",
+        "site_name": "As Oy Helsingin Koskikara",
+        "simple_id": 5337,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d0fd50-29d6-23ea-635f-24abb19230fa",
+        "name": "YITLARUNSOLMU",
+        "site_name": "As Oy Helsingin Larunsolmu",
+        "simple_id": 7230,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58649446-797e-323d-99f3-3971b62d4525",
+        "name": "YITLARUNSOLMU_A",
+        "site_name": "As Oy Helsingin Larunsolmu",
+        "simple_id": 6633,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58d0fd6e-d94b-d569-db32-b4988825852b",
+        "name": "YITLARUNSOLMU_B",
+        "site_name": "As Oy Helsingin Larunsolmu",
+        "simple_id": 7231,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "651da014-e16f-bbaa-7c54-577345914cbf",
+        "name": "YITLOIMU",
+        "site_name": "As Oy Espoon Loimu ",
+        "simple_id": 5595,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "5875cbf2-8774-2bf4-cb69-197a99298618",
+        "name": "YITNÄSINKEULA_IKKUNA",
+        "site_name": "Koy Tampereen Näsinkeula",
+        "simple_id": 6699,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "587c5cbc-baa9-5342-7527-fee3f400a0e1",
+        "name": "YITOSMONTIE38_KARMI",
+        "site_name": "KOy Helsingin Osmontie  38",
+        "simple_id": 6737,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "83699050-bfd4-6937-dd50-57fb604ec3d8",
+        "name": "YITPIKKUSIRKKU",
+        "site_name": "As Oy Riihimäen Pikkusirkku",
+        "simple_id": 6137,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e9e7724f-a690-7cb3-78da-573f0999e110",
+        "name": "YITPOLIISITALO_KARMITUS_KOTKA",
+        "site_name": "Hanke A9512 Kotkan Poliisitalo",
+        "simple_id": 5286,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "43544eb9-efdc-ad00-61c6-562a05991b1e",
+        "name": "YITPRINSESSANTIE2_VAIHE 2",
+        "site_name": "Stadin ammattiopisto",
+        "simple_id": 3773,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58a6a77d-98ac-901d-9181-39f4a669e404",
+        "name": "YITPÄIVÄKEHRÄNKOULU",
+        "site_name": "Päivänkehrän koulu",
+        "simple_id": 6991,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58bc3ad3-87ce-a884-d6a6-110d4efce28a",
+        "name": "YITPÄIVÄKEHRÄNKOULU_A1",
+        "site_name": "Päivänkehrän koulu",
+        "simple_id": 7128,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c12582-cab5-b45c-1340-8bacfc48bc88",
+        "name": "YITPÄIVÄKEHRÄNKOULU_A2",
+        "site_name": "Päivänkehrän koulu",
+        "simple_id": 7168,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "54f58119-856c-8b93-0371-565d6689495f",
+        "name": "YITPÄIVÄKEHRÄNKOULU_B1",
+        "site_name": "Päivänkehrän koulu",
+        "simple_id": 4040,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58c123f7-508a-a318-3242-cf063760d6d4",
+        "name": "YITPÄIVÄKEHRÄNKOULU_C1",
+        "site_name": "Päivänkehrän koulu",
+        "simple_id": 7167,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58abdb9c-dd86-a032-4824-f69ae70c70fa",
+        "name": "YITRAGNAR",
+        "site_name": "As Oy Helsingin Ragnar",
+        "simple_id": 7023,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3162e263-b7ee-3849-bd88-568e546759b2",
+        "name": "YITRAGNAR_A",
+        "site_name": "As Oy Helsingin Ragnar",
+        "simple_id": 4449,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58e2a7a1-e8fb-8747-b147-b59eefeb8dc5",
+        "name": "YITSONAATTI_karmi",
+        "site_name": "As Oy Lappeenrannan Sonaatti ",
+        "simple_id": 7332,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "b1cd9358-7c94-3d53-a4fb-568f82e95093",
+        "name": "YITSONAATTI_lista",
+        "site_name": "As Oy Lappeenrannan Sonaatti ",
+        "simple_id": 4458,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "58e39f1e-d05d-02b3-6186-634397c480e7",
+        "name": "YITSUOTIE4",
+        "site_name": "Päiväkoti Espoon Suotie 4",
+        "simple_id": 7350,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "e9ba3019-2e16-ab59-a2cb-55bef16f4672",
+        "name": "YITTAIVAANRANTA",
+        "site_name": "Kuopion Taivaanranta",
+        "simple_id": 3004,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "3ad34229-816f-71ba-b280-56a9c41fa29b",
+        "name": "YITTAMPEREENKRISTALLI",
+        "site_name": "KOY Tampereen Kristalli",
+        "simple_id": 4605,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "4191f09a-c776-ba39-4a45-55d7137280d1",
+        "name": "YITTAMPEREENKRISTALLI_1",
+        "site_name": "KOY Tampereen Kristalli",
+        "simple_id": 3333,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "d3d5533d-5bbb-4c2e-0a3e-57734a43e86d",
+        "name": "YITTUIKE",
+        "site_name": "As Oy Espoon Tuike",
+        "simple_id": 5597,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "589307ec-4840-22ea-eda8-84230e97ff32",
+        "name": "YITTUTKIJA",
+        "site_name": " Asunto Oy Tampereen Tutkija",
+        "simple_id": 6903,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "58cf7d02-577a-cc6f-786a-13eab6c1b94e",
+        "name": "YITVANTAANSAFIIRI",
+        "site_name": "As Oy Vantaan Safiiri",
+        "simple_id": 7220,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "586495f1-6279-6f87-86d2-ed68eedae299",
+        "name": "YITVANTAANSAFIIRI_A",
+        "site_name": "As Oy Vantaan Safiiri",
+        "simple_id": 6634,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ca3c0a-acb1-0ac0-9f1f-31ded9b438fe",
+        "name": "YITVERKA",
+        "site_name": "As Oy Hyvinkään Verka",
+        "simple_id": 7199,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ca3ca5-c393-c38c-ed4e-bfa9debfd608",
+        "name": "YITVERKA_A",
+        "site_name": "As Oy Hyvinkään Verka",
+        "simple_id": 7200,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ca3cd3-5c79-c1ac-a992-19c0aa112321",
+        "name": "YITVERKA_B",
+        "site_name": "As Oy Hyvinkään Verka",
+        "simple_id": 7201,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58ca3d07-365d-c226-b57f-27389bddec76",
+        "name": "YITVERKA_C",
+        "site_name": "As Oy Hyvinkään Verka",
+        "simple_id": 7202,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58db57bf-f2d2-1415-f32f-b728e083ba62",
+        "name": "YITWELLAMO",
+        "site_name": "As Oy Keravan Wellamo",
+        "simple_id": 7284,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "3466acbc-7ce8-cd87-84e1-57cfa5025d35",
+        "name": "YITWELLAMO_A",
+        "site_name": "As Oy Keravan Wellamo",
+        "simple_id": 5909,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58db57ec-4ec7-daa9-a240-c68962ced13d",
+        "name": "YITWELLAMO_B",
+        "site_name": "As Oy Keravan Wellamo",
+        "simple_id": 7285,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "58f5e1f9-4984-b059-e6be-2bd9b1e55931",
+        "name": "YITWELLAMO_KITTI",
+        "site_name": "As Oy Keravan Wellamo",
+        "simple_id": 7444,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "584011e9-92b7-29ca-c4a4-4fd9a4ec67cb",
+        "name": "YLE_JOENSUU",
+        "site_name": null,
+        "simple_id": 6480,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "c28a3aa1-91bd-5712-7a3a-576bb904b208",
+        "name": "YLE_KOULUTUS",
+        "site_name": null,
+        "simple_id": 5569,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "2749dce5-0b2e-156d-fd86-5347cfb69be5",
+        "name": "YLE_KUO",
+        "site_name": null,
+        "simple_id": 490,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "58ef09b0-2e9b-6529-9368-d9c6d0876ad4",
+        "name": "YLE_LISTOITUS_HKI",
+        "site_name": null,
+        "simple_id": 7415,
+        "business_location_id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd"
+    },
+    {
+        "id": "47c173cf-1167-d065-b814-53423210aeb4",
+        "name": "YLEISKULUT JOENSUU",
+        "site_name": null,
+        "simple_id": 417,
+        "business_location_id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a"
+    },
+    {
+        "id": "3088f026-e9a4-dcd3-4c1d-534238126f39",
+        "name": "YLEISKULUT JYVÄSKYLÄ",
+        "site_name": null,
+        "simple_id": 421,
+        "business_location_id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb"
+    },
+    {
+        "id": "81705ac7-243c-cbf9-2435-534234d70531",
+        "name": "YLEISKULUT KUOPIO",
+        "site_name": null,
+        "simple_id": 418,
+        "business_location_id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e"
+    },
+    {
+        "id": "cb1d830c-8099-acc5-a754-533e5bc932ac",
+        "name": "YLEISKULUT LAPPEENRANTA",
+        "site_name": null,
+        "simple_id": 400,
+        "business_location_id": "8ea0110b-246c-907a-6a60-51d3dd262d4e"
+    },
+    {
+        "id": "435c0e8d-1b51-d9ad-d73a-534237f78995",
+        "name": "YLEISKULUT MIKKELI",
+        "site_name": null,
+        "simple_id": 420,
+        "business_location_id": "8f1aa722-3e74-1dcc-161f-51d3ddd03124"
+    },
+    {
+        "id": "62c1906f-b764-92c5-3bf1-5342354f9812",
+        "name": "YLEISKULUT OULU",
+        "site_name": null,
+        "simple_id": 419,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    },
+    {
+        "id": "726885a0-3b06-a237-50df-53422cd44cb7",
+        "name": "YLEISKULUT PORI",
+        "site_name": null,
+        "simple_id": 415,
+        "business_location_id": "8ef43818-4bf2-aacd-5be2-51d3dd7ac07c"
+    },
+    {
+        "id": "aa7a39f0-fd55-9d4d-a9a8-53477a2f7217",
+        "name": "YLEISKULUT TAMPERE",
+        "site_name": null,
+        "simple_id": 474,
+        "business_location_id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907"
+    },
+    {
+        "id": "1d6a2df2-2af6-c9b1-9e71-5342384b52b2",
+        "name": "YLEISKULUT VAASA",
+        "site_name": null,
+        "simple_id": 422,
+        "business_location_id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7"
+    },
+    {
+        "id": "440479d8-2d52-623c-a5c8-54534ded4ac4",
+        "name": "YLEISKULUTTURKU",
+        "site_name": null,
+        "simple_id": 1704,
+        "business_location_id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53"
+    },
+    {
+        "id": "5edc5bac-2ab8-ccbd-7904-5506eb05559f",
+        "name": "YLEOULU",
+        "site_name": null,
+        "simple_id": 2353,
+        "business_location_id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc"
+    }
+]

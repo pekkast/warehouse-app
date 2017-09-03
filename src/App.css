@@ -1,0 +1,13 @@
+.jumbotron {
+  text-align: center;
+}
+
+.selection-buttons button {
+  text-align: left;
+}
+
+.navbar-header .breadcrumb {
+  float: left;
+  margin: 0;
+  font-size: 1.7em;
+}

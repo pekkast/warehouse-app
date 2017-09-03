@@ -1,0 +1,67 @@
+[
+    {
+        "id": "8e551654-1f73-e05e-cd1c-51d3dd1a5cdd",
+        "name": "Helsinki",
+        "simple_id": 11
+    },
+    {
+        "id": "8eaed618-5790-5fc1-4a1d-51d3dd2e1f6a",
+        "name": "Joensuu",
+        "simple_id": 16
+    },
+    {
+        "id": "8ed249fd-4255-27da-1aa9-51d3dd06fbeb",
+        "name": "Jyväskylä",
+        "simple_id": 18
+    },
+    {
+        "id": "8ee229e1-5242-a16c-0fca-51d3dd145c0e",
+        "name": "Kuopio",
+        "simple_id": 19
+    },
+    {
+        "id": "8e9215dd-59a2-05ad-216d-51d3ddb3ef8c",
+        "name": "Lahti",
+        "simple_id": 14
+    },
+    {
+        "id": "8ea0110b-246c-907a-6a60-51d3dd262d4e",
+        "name": "Lappeenranta",
+        "simple_id": 15
+    },
+    {
+        "id": "8f1aa722-3e74-1dcc-161f-51d3ddd03124",
+        "name": "Mikkeli",
+        "simple_id": 22
+    },
+    {
+        "id": "8ebc0884-e7b7-2d21-f06d-51d3dd1536bc",
+        "name": "Oulu",
+        "simple_id": 17
+    },
+    {
+        "id": "8ef43818-4bf2-aacd-5be2-51d3dd7ac07c",
+        "name": "Pori",
+        "simple_id": 20
+    },
+    {
+        "id": "8e6ba57c-f109-b63e-7244-51d3ddc8d907",
+        "name": "Tampere",
+        "simple_id": 12
+    },
+    {
+        "id": "8e7f7c5a-b7b7-1208-015f-51d3dd8bed53",
+        "name": "Turku",
+        "simple_id": 13
+    },
+    {
+        "id": "8f08b072-9c62-ffd3-fc01-51d3ddc993c7",
+        "name": "Vaasa",
+        "simple_id": 21
+    },
+    {
+        "id": "8f3b302d-9c64-a9a1-d90c-51d3dd8ebfc8",
+        "name": "Yleiskulut",
+        "simple_id": 99
+    }
+]

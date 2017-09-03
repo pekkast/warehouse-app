@@ -1,0 +1,3971 @@
+[
+    {
+        "product_id": "L00140",
+        "description": "Jalkalista, 12x22mm, M\u00e4nty, Valkoinen",
+        "info1": "12x22mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00141",
+        "description": "Jalkalista, 12x32mm, M\u00e4nty, Valkoinen",
+        "info1": "12x32mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.67,
+        "purchase_price_default": 0.67,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (4500.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (234.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00249",
+        "description": "Jalkalista, 12x42mm, MDF, Valkoinen",
+        "info1": "12x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1006,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00142",
+        "description": "Jalkalista, 12x42mm, M\u00e4nty, Valkoinen",
+        "info1": "12x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.67,
+        "purchase_price_default": 0.67,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (23266.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (69.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (105.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (859.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (980.72)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (277.52)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (428.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (396.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (195.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00143",
+        "description": "Jalkalista, 12x52mm, M\u00e4nty, Valkoinen",
+        "info1": "12x52mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.99,
+        "purchase_price_default": 0.99,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (144.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (135.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00144",
+        "description": "Jalkalista, 12x57mm, M\u00e4nty, Valkoinen",
+        "info1": "12x57mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (57.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (20.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00145",
+        "description": "Jalkalista, 12x60mm, M\u00e4nty, Valkoinen",
+        "info1": "12x60mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (255.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (92.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (28.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (224.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (128.44)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (34.96)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (72.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (378.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00146",
+        "description": "Jalkalista, 12x70mm, M\u00e4nty, Valkoinen",
+        "info1": "12x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "PUUKESKUS OY",
+                "e1552d8c-ef2c-4b51-a061-7096fd86382a"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (430.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (18.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (30.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (30.00)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (18.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00149",
+        "description": "Jalkalista, 12x90mm, M\u00e4nty, Valkoinen",
+        "info1": "12x90mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.5,
+        "purchase_price_default": 1.5,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (198.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00258",
+        "description": "Jalkalista, 14x42mm, MDF, Valkoinen",
+        "info1": "14x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1006,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00218",
+        "description": "Jalkalista, 14x42mm, M\u00e4nty, Valkoinen",
+        "info1": "14x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.72,
+        "purchase_price_default": 0.72,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Oulu (10.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (140.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00219",
+        "description": "Jalkalista, 14x52mm, M\u00e4nty, Valkoinen",
+        "info1": "14x52mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.28,
+        "purchase_price_default": 1.28,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00220",
+        "description": "Jalkalista, 14x60mm, M\u00e4nty, Valkoinen",
+        "info1": "14x60mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00221",
+        "description": "Jalkalista, 14x70mm, M\u00e4nty, Valkoinen",
+        "info1": "14x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6002,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00052",
+        "description": "Ovilista, 10x40mm, Muovi, Valkoinen",
+        "info1": "10x40mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 3,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.17,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.87,
+        "purchase_price_default": 0.87,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Viamont Oy",
+                "5db3cbd8-b34d-412d-9011-fb119175eb81"
+            ],
+            [
+                "Colornova Oy",
+                "9433a135-c3b0-143b-b476-532fe87f1a61"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (2603.98)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (627.25)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (411.19)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (813.57)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (295.41)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (348.20)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (301.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (484.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (104.71)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00053",
+        "description": "Ovilista, 10x58mm, Muovi, Valkoinen",
+        "info1": "10x58mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "Viamont Oy",
+                "5db3cbd8-b34d-412d-9011-fb119175eb81"
+            ],
+            [
+                "Colornova Oy",
+                "9433a135-c3b0-143b-b476-532fe87f1a61"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (260.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (14.40)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (16.05)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (20.00)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (550.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (52.80)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (35.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (6.51)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00054",
+        "description": "Ovilista, 10x70mm, Muovi, Valkoinen",
+        "info1": "10x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.38,
+        "purchase_price_default": 1.38,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "9433a135-c3b0-143b-b476-532fe87f1a61",
+        "suppliers": [
+            [
+                "Colornova Oy",
+                "9433a135-c3b0-143b-b476-532fe87f1a61"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (195.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (35.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "9433a135-c3b0-143b-b476-532fe87f1a61",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00105",
+        "description": "Ovilista, 12x180mm, MDF, Valkoinen",
+        "info1": "12x180mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1006,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 2.39,
+        "purchase_price_default": 2.39,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00055",
+        "description": "Ovilista, 12x22mm, M\u00e4nty, Valkoinen",
+        "info1": "12x22mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.52,
+        "purchase_price_default": 0.52,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00056",
+        "description": "Ovilista, 12x32mm, M\u00e4nty, Valkoinen",
+        "info1": "12x32mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.69,
+        "purchase_price_default": 0.69,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00057",
+        "description": "Ovilista, 12x42mm, M\u00e4nty, Valkoinen",
+        "info1": "12x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 3,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.69,
+        "purchase_price_default": 0.69,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "PUUKESKUS OY",
+                "e1552d8c-ef2c-4b51-a061-7096fd86382a"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ],
+            [
+                "DT Finland Oy \/ Stark",
+                "965b2abf-7ffc-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (17010.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (116.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (500.60)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (995.20)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (4909.30)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (2507.53)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (33.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (616.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (1452.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (852.60)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Vaasa (33.00)",
+                "c9533785-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00058",
+        "description": "Ovilista, 12x52mm, M\u00e4nty, Valkoinen",
+        "info1": "12x52mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.99,
+        "purchase_price_default": 0.99,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Kuopio (103.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (1100.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (88.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00068",
+        "description": "Ovilista, 12x60mm, M\u00e4nty, Valkoinen",
+        "info1": "12x60mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Pori (11.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00069",
+        "description": "Ovilista, 12x70mm, M\u00e4nty, Valkoinen",
+        "info1": "12x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Mikkeli (20.00)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00070",
+        "description": "Ovilista, 12x80mm, M\u00e4nty, Valkoinen",
+        "info1": "12x80mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.5,
+        "purchase_price_default": 1.5,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00071",
+        "description": "Ovilista, 12x90mm, M\u00e4nty, Valkoinen",
+        "info1": "12x90mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.5,
+        "purchase_price_default": 1.5,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00106",
+        "description": "Ovilista, 14x42mm, M\u00e4nty, Valkoinen",
+        "info1": "14x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.87,
+        "purchase_price_default": 0.87,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (1736.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (44.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (132.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (814.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00107",
+        "description": "Ovilista, 14x52mm, M\u00e4nty, Valkoinen",
+        "info1": "14x52mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.28,
+        "purchase_price_default": 1.28,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00108",
+        "description": "Ovilista, 14x60mm, M\u00e4nty, Valkoinen",
+        "info1": "14x60mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00109",
+        "description": "Ovilista, 14x70mm, M\u00e4nty, Valkoinen",
+        "info1": "14x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00110",
+        "description": "Ovilista, 14x80mm, M\u00e4nty, Valkoinen",
+        "info1": "14x80mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.2,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00051",
+        "description": "Ovilista, 8x13mm, Muovi, Valkoinen",
+        "info1": "8x13mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6001,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.1,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.32,
+        "purchase_price_default": 0.32,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Viamont Oy",
+                "5db3cbd8-b34d-412d-9011-fb119175eb81"
+            ],
+            [
+                "Colornova Oy",
+                "9433a135-c3b0-143b-b476-532fe87f1a61"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (2381.40)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (233.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (59.70)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (55.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00001",
+        "description": "Peitelista, 10x40mm, Muovi, Valkoinen",
+        "info1": "10x40mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.7,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.87,
+        "purchase_price_default": 0.87,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Joensuu (100.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00002",
+        "description": "Peitelista, 10x58mm, Muovi, Valkoinen",
+        "info1": "10x58mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.7,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (945.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00003",
+        "description": "Peitelista, 10x70mm, Muovi, Valkoinen",
+        "info1": "10x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6003,
+        "group3": 1000,
+        "group4": 1000,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.17,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0,
+        "purchase_price_default": 0,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00044",
+        "description": "Peitelista, 12x120x2440mm, MDF, Valkoinen",
+        "info1": "12x120x2440mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 1,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1006,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 2.44,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 3.5624,
+        "purchase_price_default": 3.5624,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "kpl",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "DT Finland Oy \/ Stark",
+                "965b2abf-7ffc-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (141.69)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (30.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (12.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (70.59)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (178.97)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (39.21)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (31.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (42.59)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (122.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (165.47)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00004",
+        "description": "Peitelista, 12x22mm, M\u00e4nty, Valkoinen",
+        "info1": "12x22mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.52,
+        "purchase_price_default": 0.52,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (291.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (36.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (20.00)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (72.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00005",
+        "description": "Peitelista, 12x32mm, M\u00e4nty, Valkoinen",
+        "info1": "12x32mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.69,
+        "purchase_price_default": 0.69,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (810.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (72.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (25.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (20.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (60.00)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (244.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (162.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00006",
+        "description": "Peitelista, 12x42mm, M\u00e4nty, Valkoinen",
+        "info1": "12x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 3,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.69,
+        "purchase_price_default": 0.69,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ],
+            [
+                "DT Finland Oy \/ Stark",
+                "965b2abf-7ffc-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (13617.10)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (341.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (468.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (1255.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (4687.23)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (1997.54)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (250.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (1289.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "P\u00e4\u00e4varasto (55.00)",
+                null
+            ],
+            [
+                "Tampere (636.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (1057.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00007",
+        "description": "Peitelista, 12x52mm, M\u00e4nty, Valkoinen",
+        "info1": "12x52mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 3,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.99,
+        "purchase_price_default": 0.99,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "PUUKESKUS OY",
+                "e1552d8c-ef2c-4b51-a061-7096fd86382a"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ],
+            [
+                "DT Finland Oy \/ Stark",
+                "965b2abf-7ffc-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (6542.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (100.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (47.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (18.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (200.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (146.20)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (18.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (847.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (490.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (457.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00008",
+        "description": "Peitelista, 12x60mm, M\u00e4nty, Valkoinen",
+        "info1": "12x60mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Lappeenranta (150.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00009",
+        "description": "Peitelista, 12x70mm, M\u00e4nty, Valkoinen",
+        "info1": "12x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 3,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.22,
+        "purchase_price_default": 1.22,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ],
+            [
+                "PUUKESKUS OY",
+                "e1552d8c-ef2c-4b51-a061-7096fd86382a"
+            ],
+            [
+                "Cent-Listat Oy\/Handelsbanken",
+                "72fbcf1f-dd6c-e40d-f82c-553097ad9fa8"
+            ],
+            [
+                "Combiwood O\u00fc",
+                "3fc1f522-be2f-3a58-b103-564c7915044d"
+            ],
+            [
+                "DT Finland Oy \/ Stark",
+                "965b2abf-7ffc-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (849.20)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Joensuu (40.00)",
+                "c9532616-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4 (163.00)",
+                "c95329cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (228.80)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (340.45)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Mikkeli (134.87)",
+                "c9533996-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Oulu (7.00)",
+                "c95327f8-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (60.00)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (188.30)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (103.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00011",
+        "description": "Peitelista, 12x80mm, M\u00e4nty, Valkoinen",
+        "info1": "12x80mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.38,
+        "purchase_price_default": 1.38,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (126.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00013",
+        "description": "Peitelista, 14x42mm, M\u00e4nty, Valkoinen",
+        "info1": "14x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6000,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.87,
+        "purchase_price_default": 0.87,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (56.20)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (65.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00272",
+        "description": "S\u00e4hk\u00f6urajalkalista, 21x42mm, M\u00e4nty, Valkoinen",
+        "info1": "21x42mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6003,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.04,
+        "purchase_price_default": 1.04,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (770.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Lappeenranta (100.00)",
+                "c95323cf-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00289",
+        "description": "S\u00e4hk\u00f6urajalkalista, 21x57mm, M\u00e4nty, Valkoinen",
+        "info1": "21x57mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6003,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.3,
+        "purchase_price_default": 1.3,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00306",
+        "description": "S\u00e4hk\u00f6urajalkalista, 21x70mm, M\u00e4nty, Valkoinen",
+        "info1": "21x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6003,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 1.68,
+        "purchase_price_default": 1.68,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (499.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Kuopio (393.00)",
+                "c9532bac-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00323",
+        "description": "S\u00e4hk\u00f6urajalkalista, 28x70mm, M\u00e4nty, Valkoinen",
+        "info1": "28x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6003,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00329",
+        "description": "S\u00e4hk\u00f6urapeitelista, 22x70mm, MDF, Valkoinen",
+        "info1": "22x70mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6004,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1006,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 3.05,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.555,
+        "purchase_price_default": 0.555,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ]
+        ],
+        "warehouses": [],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    },
+    {
+        "product_id": "L00331",
+        "description": "Varjolista, 15x18mm, M\u00e4nty, Valkoinen",
+        "info1": "15x18mm",
+        "info2": " ",
+        "info3": " ",
+        "info4": " ",
+        "info5": " ",
+        "name_alt": " ",
+        "unit": 3,
+        "incremental": false,
+        "install_parent": false,
+        "type1": 2,
+        "type2": 2,
+        "type3": 0,
+        "group1": 6005,
+        "group2": 6001,
+        "group3": 1000,
+        "group4": 1001,
+        "group5": 0,
+        "group6": 0,
+        "group7": 0,
+        "group8": 0,
+        "group9": 0,
+        "group10": 0,
+        "wage_sort": " ",
+        "account_no": 0,
+        "salary_group": 0,
+        "main_product_group": 0,
+        "material_type_id": 1,
+        "provision_percent": null,
+        "vat_group": 1,
+        "price_group": 0,
+        "coeff": 0,
+        "workload_coeff": 1,
+        "size_length": 0,
+        "sales_price": 0,
+        "sales_price_default": 0,
+        "purchase_price": 0.5,
+        "purchase_price_default": 0.5,
+        "work_price": 0,
+        "work_price_default": 0,
+        "storage": 99,
+        "image_path": " ",
+        "deleted": 0,
+        "free2": 0,
+        "UnitDescription": "jm",
+        "littera_no": 0,
+        "default_supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "suppliers": [
+            [
+                "Siparila Oy",
+                "7323e3f4-1b12-41d1-8e6b-19e0e3a64621"
+            ],
+            [
+                "Arvolista Oy",
+                "e752dd70-36b8-4a37-8c81-1b5d342e20f9"
+            ],
+            [
+                "E.T. Listat Oy",
+                "e8335aa0-9012-40ce-b5d6-d1f238ec7053"
+            ]
+        ],
+        "warehouses": [
+            [
+                "Helsinki (425.00)",
+                "c952fe24-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Pori (82.80)",
+                "c9532dae-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Tampere (220.00)",
+                "c9531681-7f7b-11e3-9abe-00155d2f340a"
+            ],
+            [
+                "Turku (192.00)",
+                "c9531f64-7f7b-11e3-9abe-00155d2f340a"
+            ]
+        ],
+        "supplier_id": "7323e3f4-1b12-41d1-8e6b-19e0e3a64621",
+        "no_invoice": false
+    }
+]
